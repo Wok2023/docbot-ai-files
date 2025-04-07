@@ -1,0 +1,371 @@
+Version: 23 May 2023
+Reference Number:
+RES_P002
+Body responsible for Final Approval:
+Board
+Management Approval:
+CEO Signature
+Date of Final Approval:
+23 May 2023
+Date of Implementation:
+1 June 2023
+Version:
+2.1
+Revision Date:
+1 February 2026
+Previous Revisions:
+23 February 2023
+Policy Owner:
+Chief Academic Officer
+Institutional functionary responsible:
+Dean: Research, Internationalisation and
+Community Engagement
+2
+Table of Contents
+1.
+Introduction
+3
+2. Definitions
+4
+3. Purpose
+5
+4. Rights and Responsibilities of STADIO in enabling Ethical Research
+5. Rights and Responsibilities of Researchers at STADIO
+6
+6. Responsibilities of Supervisors
+9
+7. Responsibilities of Research Ethics Working Groups and Committees
+10
+8. Rules
+9. Constitution
+10. Oversight
+11
+12
+1.1
+The Policy is based on the vision of STADIO: To be a leading Higher Education Institution, offering
+qualifications aligned with the needs of societies, students and the world of work.
+1.2
+The Research Ethics Policy ensures, assures, and protects the rights and integrity of students,
+participants, respondents, and the institution.
+1.3
+STADIO endorses the Statement on Ethical Research and Scholarly Publishing Practices jointly issued by
+ASSAf, CHE, DHET, NRF and USAf1 .
+1.4
+STADIO follows a centralised, risk-based research ethics review model.
+1.5
+A Senate Research Ethics Committee (SREC), is responsible for ensuring research ethics and the
+management thereof across all the Schools.
+1.6
+The SREC promotes ethical research by providing strategic direction to Senate,  the relevant Research
+Ethics Working Groups and the STADIO Ethics Review Committee (ERC).
+1.7
+The SREC considers the ethical implications of  high-risk, non-health human participant research,
+applications elevated to it for action or opinion (including appeals) and approves these studies in
+compliance with the Policy on Research Ethics and Standard Operating Procedures.
+1.8
+The Honours Working Group, and
+& Doctoral Working Group  are responsible for reviewing
+negligible to medium risk student research ethics applications, while the Ethics Review Committee is
+responsible for reviewling negligle to medium applications by staff members. These structures report to the
+SREC. Refer to Appendix A for the reporting structure.
+1 ASSAf, CHE, DHET, DST, NRF & USAf. (2019) Statement on Ethical Research and Scholarly
+Publishing Practices. (2019). Available from https://www.sajs.co.za/article/view/7675
+2.
+Ethics review is an objective appraisal of the effect of the proposed research on the wellbeing of potential
+participants, animals, the environment, institutions, collectivities and communities by an established
+Ethics Review Committee or Working Groups for Postgraduate Studies and staff research.
+2.2
+Gatekeepers are persons who by the right of their position of authority are recognised as a channel of
+access to a research site and/or participant.
+2.3
+Health research includes any research that contributes to knowledge of:
+•
+biological, clinical, psychological, or social  processes in humans;
+improved methods for the provision of health services;
+human pathology;
+the causes of disease;
+effects of the environment on the human body;
+development of new applications of pharmaceuticals, medicines and related substances; and
+the development of new applications of health technologies to improve health and health care2;
+2.4
+Human participant is a living person about whom a researcher obtains data through intervention or
+interaction with the person or using her/his identifiable information. However, this definition may be
+extended for this policy to protect the rights of deceased persons3;
+2.5
+Research is a systematic investigation aimed at the development of, or contribution to, generalizable or
+transferable knowledge;
+2.6
+Researchers refer to permanently appointed STADIO staff, staff members on a contract of less than three
+years tasked with conducting research and students registered for postgraduate studies at STADIO;
+Vulnerable participants include children (i.e. those individuals under the age of 18 years), the elderly,
+pregnant women, people with a cognitive or mental impairment, prisoners or people on parole, students,
+people living with HIV/AIDS, people in dependent relationships, persons with disabilities, socio-
+economically disadvantaged people, indigenous people and indigents.
+2  Definition according to the National Health Act, 61 of 2003 (p.6/7)
+3  Definition according to the Department of Health, Government Gazette, No. 38000 (2014:5)
+3.
+3.1
+The STADIO Policy on Research Ethics aims to encourage:
+3.1.1
+the existence of an ethical and scientific intellectual culture among STADIO's staff and students;
+3.1.2
+protection of the rights and interests of human participants, institutions, communities and the environment.
+This is particularly important where the information that has been gathered has the potential to invade the
+privacy and dignity of participants and third parties, and where participants and third parties are vulnerable
+owing to their youth, disability, gender, age, poverty, disease, ignorance or powerlessness; and
+3.1.3
+researchers' understanding of their responsibilities in conducting ethical research.
+4.
+4.1
+STADIO should promote compliance with the Policy on Research Ethics and take appropriate steps when
+this policy is breached.
+4.2
+As a rule, all intellectual property resulting from research conducted under the auspices of STADIO vests in
+the institution.
+4.3
+STADIO should make the necessary resources available to encourage sound research ethics governance and
+the promotion of ethical research.
+4.4
+Ethics approval will not be granted retrospectively.
+4.5
+Health and animal research conducted by STADIO researchers should receive ethics approval from a
+Research Ethics Review Committee registered with the National Health Research Ethics Council to comply
+with section 73 of the National Health Act 61 of 2003.
+4.6
+The following research is exempted from full review by a Research Ethics Review Committee or Working
+Group:
+research that relies exclusively on the review of materials available in the public domain and/or
+information accessible through legislation or regulation;
+research that relies exclusively on the secondary use of anonymous information or anonymous
+human biological material, except for the review of archived materials that are confidential,
+research of closed media sources and research involving the analysis of institutional statistics
+pertaining to employees, students, service providers and users.
+4.7
+STADIO is accountable only for research that has been conducted in accordance with the Policy on
+Research Ethics.
+4.8
+STADIO promotes the following four internationally recognised moral principles of ethics as bases for
+research:
+autonomy (research should respect the autonomy, rights and dignity of research participants);
+beneficence (research should make a positive contribution towards the welfare of people);
+non-maleficence (research should not cause harm to the research participant(s) or people in
+general);
+justice (the benefits and risks of research should be fairly distributed among people).
+5.
+5.1
+Researchers have the right to academic freedom.
+5.2
+Research ethics applications submitted to the Honours or Masters & Doctoral Working Groups must be
+accompanied by the signature of the supervisor
+5.3
+It is the responsibility of the researcher to ensure that he or she does not undertake research without ethics
+approval.
+5.4
+Researchers have a right and a duty to make all necessary efforts to bring the research and its findings or
+results to the public domain in an appropriate manner using appropriate and acceptable forums and at an
+appropriate time. The publishing of research findings should be done in a manner that will not harm
+research participants or their communities.
+5.5
+Researchers may not commit plagiarism, piracy, falsification or the fabrication of results at any stage of
+the research.
+5.6
+Researchers must acknowledge, declare and indicate how they will mitigate real or perceived conflicts of
+interest.
+7
+5.7
+Researchers may be required to report regularly to the relevant Research Ethics Working Group.
+5.8
+Any researcher who experiences unexpected adverse events or makes changes to the research procedures
+that will increase the risks of harm to the participants should inform the relevant Research Ethics Working
+Group.
+5.9
+In the event of a researcher contravening the Policy on Research Ethics, it will be investigated by the
+relevant Research Ethics Working Group and the findings reported to the SREC for decision-making.
+5.10
+STADIO supports Open Access to science and research. Researchers should ensure the protection of the
+interests of co-researchers and participants, including the participants' right to privacy and confidentiality,
+when sharing data or making it public in any form.
+5.11
+The publishing of research findings should be done in a manner that will not harm research participants,
+their communities and/or institutions.
+5.12
+Research results should be reported irrespective of whether they support or contradict the expected
+outcome(s).
+5.13
+Researchers should ensure that the personal information of participants is only used for the agreed research
+purposes with the participants and that it is adequately protected to prevent possible loss, damage and/or
+unauthorized access as required by the Protection of Personal Information Act 4 of 2013 (POPIA). They
+should never expose such participants and institutions to procedures or risks not directly attached to the
+research project or its methodology.
+5.14
+The Request for Information under the Promotion of Access to Information Act 2 of 2000 should be
+followed if a research participant or researcher requests access to the records of personal information
+processed by STADIO for research purposes.
+5.15
+Research and the pursuit of knowledge should not, in themselves, be regarded as
+the supreme goal at the expense of the rights of participants and institutions.
+5.16
+Collaborative research involving human participants must not commence without ethics approval by the
+Ethics Review Committee (ERC) of all collaborating institutions. This requirement may be waivered by the
+SREC if the local host institution's REC is registered with the National Research Ethics Review Council or
+the national host institution adheres to minimum research ethics standards comparative to those set out in
+the STADIO Policy on Research Ethics.
+8
+5.17
+The relevant data protection requirements of jurisdictions that has data protection laws such as the
+European Union should be considered for the processing of personal information of researchers and
+participants and requirements should be included in the collaborative agreements.
+5.18
+Sharing personal information across borders to other researchers in other countries must meet the
+requirements of transborder information flows of the Protection of Personal Information Act 4 of 2013 to
+uphold substantially similar lawful processing or consent conditions.
+5.19
+Autonomy requires that individuals' participation should be freely given, based on informed consent and for
+a specific purpose, as required by the Personal Information Act 4 of 2013. Direct or indirect coercion, as
+well as undue inducement of people in the name of research should be avoided.
+5.20
+The researcher should ensure that participants  give their consent in writing and preferably accompanied by
+their signature. They, in turn, should be given written information containing adequate details of the
+research, including any risks associated with the study. If participants choose not to provide their consent in
+writing, consent may be recorded verbally, provided that verbal consent can be linked to the individual
+providing such verbal consent. For example, where a participant is illiterate, consent should be obtained in
+the presence of a literate witness who should verify and sign a document stating that informed consent had
+been given. Where the research is done on-line or electronically, informed consent can be obtained
+electronically on condition that reasonable steps are in place to protect the identity of the participant.
+5.21
+Researchers should treat research participants as unique human beings within the context of their
+community systems and should respect what could be traditionally sacred and secret. Research should
+preferably be undertaken with, the members of an identified community or communities rather than merely
+about such community(ies). In some situations, the consent of "gatekeepers" may have to be obtained in
+addition to that of research participants.
+5.22
+It is the responsibility of the primary researcher to ensure compliance with the research policy/directives of
+gatekeepers or organizational structures.
+5.23
+Criteria for the selection of research participants should be fair, unbiased as well as being scientific. Easily
+accessible individuals or groups should not be inordinately burdened with repeated demands on their time
+and knowledge by the researcher.
+5.24
+Researchers should ensure that the actual benefits to be derived by the
+participants, society or environment from the research clearly outweigh any possible risks, and that
+participants, researchers and the environment are subjected only to those risks that are clearly necessary
+for the conduct of the research. Researchers should ensure that these risks are assessed and that adequate
+precautions are taken to minimize and mitigate risk.
+5.25
+Reasonable steps should be taken to prevent harm (physical, psychological, social,
+legal, political and/or spiritual), injury or loss of opportunity to participants, researchers and the
+environment. If harm, injury or loss of opportunity should occur, it should be dealt with in accordance with
+the relevant policy and/or legislative frameworks.
+5.26
+Demographic information such as race or gender should not be used in research to discriminate or cause
+loss of social standing for participants.  If these variables are required, it must be aligned to the aim and
+objectives of the research.
+5.27
+Careful consideration should be given by researchers and Research Ethics Working Groups regarding the
+appropriateness of proposed financial or other inducements to research participants, whether children or
+adults, parents or guardians of children, or community gatekeepers.
+5.28
+Reimbursement of expenses (e.g. transport costs, meals) or compensation for the time or effort expended or
+any opportunity that may be lost is allowed, on condition that all participants are offered similar
+reimbursement and that such reimbursement is only aimed at recompensing the participants.
+5.29
+Researchers should preserve research records for a minimum of fifteen years after the submission of the
+report or the results.
+5.30
+Researchers should take reasonable technical and operational steps to ensure that research records are
+stored in such a manner as to protect confidentiality of records and the anonymity of participants.
+5.31
+In the event of a data breach of personal information of research participants, the notification and
+communication process as outlined by the Protection of Personal Information Act (POPIA) should be
+followed.
+6.
+6.1
+Supervisors should promote their students' adherence to the Policy on Research Ethics and criteria
+stipulated in the ethics approval documentation.
+6.2
+Supervisors are responsible to oversee the ethical conduct of research by students under their supervision
+and should provide them with the necessary guidance during the research ethics application process.
+6.3
+Supervisors must be suitably qualified to provide the necessary guidance to students and they should
+produce evidence of appropriate research ethics training, refreshed at least every third year.
+7.
+7.1
+The STADIO Research Ethics Working Groups are responsible for independent and non-biased reviews of
+the ethical risk related to  postgraduate and staff research within the institution. The Chairs of the
+Working Groups report monthly to the STADIO Research Ethics Committee (SREC).
+7.2
+Research Ethics Working Groups are responsible for reviewing the research ethics of every research
+project before the commencement of data collection and for ensuring the regular monitoring of any risk
+that may be related to ongoing research.
+7.3
+The Research Ethics Working Groups are further responsible for acting in the interests of potential
+research participants, affected communities and organizations that participate in research.
+7.4
+These Groups and will maintain  records of research proposals that have been considered, including those
+approved by ethics committees of other institutions and professional bodies. The Working Groups may
+consulty external experts to assist in the evaluation and screening of research applications related to the
+various ethical rislks that may arise from the proposed research
+7.5
+The Ethics Review Committee reports on a quaterly basis to the SREC, which in turn reports to the
+Senate RICE Committee.
+8.
+8.1
+The Ethics Review Committee (ERC) and Working Groups (WG)
+8.1.1
+Members will address matters put to the ERC and WG in a non-biased manner, upholding the
+institution's integrity.
+8.1.2
+All applications to a  Working Group must be addressed with the knowledge and supporting
+documents of relevant individuals.
+8.1.3
+Assessments and recommendations should be based on merit.
+8.1.4
+Researchers will have the opportunity to approach a committee with a reasonable and
+justifiable query in respect of any decision of the SREC, ERC or Working Group.
+8.2
+Submission for research ethics review
+8.2.1
+Applications will be pre-screened for submission to the Research Ethics Working Groups. The
+Working groups and ERC will convene monthly, or according to need, to evaluate ethics
+applications.
+8.2.2
+Ethical approval forms (Annexure B) must accompany applications together with supporting
+documents. Supporting documents should include consent forms to be signed by participants.
+8.2.3
+Supervisor recommendations, where relevant, should accompany applications.
+8.3
+Transgression and Ethical Misconduct
+8.3.1
+A researcher must be informed in writing of any transgression, and an enquiry will be
+undertaken by assigned Committee or Working Group.
+8.3.2
+The rights of the individuals and disciplinary procedure must be made available to the relevant
+individuals.  Transgressions may result in disciplinary sanction in terms of the Students' and
+Employee Disciplinary Code.
+9.
+9.1
+The SREC is chaired by the Dean: Research, Internationalisation and Community Engagement.
+9.2
+The SREC is composed of at least nine members as set out in the SREC Charter and Code of Conduct.
+9.3
+Each Research Ethics Working Groups is chaired by a senior academic with a PhD and a substantial
+research background and adequate, relevant training in research ethics..
+9.4
+Research Ethics Working Groups are composed of at least four members of the academic staff who have
+a minimum of a Masters qualification (NQF level9) and adequate training in ethical applications and
+reviews.
+9.5
+Members may serve for a three-year term of office, renewed once. Should a member resign, the SREC
+must invite nominations and make the necessary  appointments  based on 9.4.
+9.6
+The Ethics Review Committee (ERC) should comprise a minimum of five members: a Chairperson, the
+Chairs of each of the Working Groups, and a secretary or administrative support.
+10.
+10.1
+The SREC is accountable to the SENATE Research, Internationalisation and Community Engagement
+(RICE) Committee.
+10.2
+The ERC, Honours WG and M&D WG report quarterly to the SREC.
+10.3
+Complaints and objections by staff, students and supervisors must be forwarded to the Stadio RICE
+Committee for action.

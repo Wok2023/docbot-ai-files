@@ -1,0 +1,54 @@
+SOP for At Risk (Assessments) V0.01/22  1
+STANDARD OPERATING PROCEDURE:AT RISK (ASSESSMENTS)PROCESSReference Number:TL_S006Body responsible for Final Approval:Teaching and Learning Committee (TLAC)Management Approval:Teaching and Learning Committee (TLAC)Date of Final Approval:Date of Implementation:Previous Revisions:-Procedure Owner:Chief Academic OfficerInstitutional functionary responsible:Dean: Teaching, Learning & Student Success
+SOP for At Risk (Assessments) V0.01/22  2
+Table of contents
+Contents STANDARD OPERATING PROCEDURE:1AT RISK (ASSESSMENTS) PROCESS1Table of contents2
+1.AT RISK MANAGEMENT: Non-participation in formal assessments31.1At Risk Management: Non-participation in formal assessments Process Diagram31.2At Risk Management: Non-participation in formal assessments Process Narrative31.3Measurements and Service Levels42.AT RISK MANAGEMENT: Poor performance in formal assessments52.1At Risk Management: Poor performance in formal assessments Process Diagram52.2At Risk Management: Poor performance in formal assessments Process Narrative62.3Measurements and Service Levels73.ANNEXURES73.1ANNEXURE A: Procedure to download list of non-submissions in Canvas73.2Annexure B: Teams folder structure84.
+REFERENCE DOCUMENTS12
+SOP for At Risk (Assessments) V0.01/22  3
+1.AT RISK MANAGEMENT: Non-participation in formal assessments1.1At Risk Management: Non-participation in formal assessments Process Diagram1.2At Risk Management: Non-participation in formal assessments Process Narrativea)
+One week before the due date of a formal assessment, the lecturer must post an Announcement on the Canvas course to remind the students of the upcoming assessment, its nature, duration and scope. (The capability allows for Announcementsto be loaded at any point, with a pre-determined post date.)b)
+The lecturer must add a Calendar reminder for one week before the due date.c)
+Within 2 business days following the due date for the assessment, the lecturer must use the “Message students who”function in Canvas Gradebook to message students who have not submitted assignments/taken the test. Students
+SOP for At Risk (Assessments) V0.01/22  4
+must be reminded of the procedure for applying for extensions based on illness/extenuating circumstances and a link to the STADIO Rulebook provided (in mySTADIO).d)
+Within 5 days following the due date of the assessments, lecturers must export the list of studentswho have not submitted assignments/taken the test on the LMS (see Annexure A for procedure) and the list must be saved in the designated Teams environment with the code of the module, as well as the code of the assessment, separatedby an underscore as follows: (DNS)ACC101_SS1. (See Annexure B for Teams structure)e)
+Where the test is taken in class (i.e., not on the LMS), the lecturer must mark the student’s status on the particular assessment as “missing” in the Gradebook within 5 days of the test being written. The “Message students who”function must then be used to send a mail to all affected students seeking to identify reasons that students missed the assessment and reminding students of the rules for special consideration, etc. per (c) above.f)
+The lecturer must next email the Academic Manager (AM) on the relevant campus, as well as the Module Coordinator (MC) (if the lecturer is not the MC) to inform them that the list is available in the Team (where they will have shared access), within 5 working days following the due date of the assessment. Where a school has no academic managers, the HOS will take this role.g)
+For the first formal assessment of the semester, a notification email must also be sent to the Team Leader: Applications in the SAS department. The Team Leader: Applications (SAS) must check whether the students have deregistered/withdrawn or not. If so, the student must be removed from the course (if withdrawn before the start of the semester)/deactivated (once student has participated). h)
+The AM must consider the lists per programme on a weekly basis and share a summarised view with the relevant Head of Academics (HOA).i)
+The HOA must monitor the non-submission rate and report to the Campus Manco, with an indication of remedial actions.j)
+The HOA must contact the DisciplineLeader (DP), MC and HOS, as appropriate, depending on the extent of the problem. For serious cases of non-participation (i.e., >20% non-participation), the HOA takes responsibilityfor interrogating the situation and for negotiating a solution with the relevant parties involved. k)
+The HOS must monitor the reports from the HOAs and where the absence is across campuses, discuss the matter with the relevant PC at the School MANCO.1.3Measurements and Service LevelsMeasurementsMetrics(Specific, Measurable, Attainable, Relevant, Time-bound)TargetProcess ReferenceSend reminder announcementOne week before due date1.2 (a)Message students who have not submitted/taken the testWithin 2 business days of due date1.2 (b)
+SOP for At Risk (Assessments) V0.01/22  5
+Save list of non-participants in TeamWithin 5 days of due date1.2 (c)Class tests: mark absent students’ assessments as “missing” on LMSWithin 5 days of the test date1.2 (e)Lecturer emails AM and MCWithin 5 days of due date1.2 (f)AM considers lists Weekly1.2 (h)2.AT RISK MANAGEMENT: Poor performance in formal assessments2.1At Risk Management: Poor performance in formal assessments Process Diagram
+SOP for At Risk (Assessments) V0.01/22  6
+2.2At Risk Management: Poor performance in formal assessments Process Narrativea)
+One week before the due date of a formal assessment, the lecturer must post an Announcementon the Canvas course to remind the students of the upcoming assessment, its nature, duration and scope. (The capability allows for Announcementsto be loaded at any point, with a pre-determined post date.)b)
+Within 2 business days after the finalisation of marking, the lecturer must use the “Message students who”-function in Canvas Gradebook to message students who have not achieved a mark of 50% in the assessment. Students must be reminded of where to find the marking guidelines/memorandum, how to access individual feedback on the assessment, and any resubmission opportunities available (only where applicable). Lecturers must remind students of their consultation hours for extra support, indicating how these hours can be booked (refer to Annexure C for sample message). c)
+Within 2 days following the posting of the grades on the LMS, lecturers must export the list of students who have not achieved 50% or more in the assessment (see Annexure D for procedure). The list must be saved in the designated Teams environment with the code of the module, as well as the code of the assessment, separatedby an underscore as follows:  (LOW)ACC101_SS1. (see Annexure B for Teams structure)d)
+The lecturer must next email the Academic Manager (AM) on the relevant campus, as well asthe Module Coordinator (MC) (if the lecturer is not the MC) within 5 working days of the grade posting date of the assessment. Where a school has no academic managers, the HOS will take this role.e)
+The AM must consider the lists per programme on a weekly basis and share a summarised view with the relevant Head of School (HOS).f)
+The HOS must monitor the low success rate (i.e., failure rate >40%), also across campuses/modes, and liaise with the relevant PCs and DPs in this regard.  If the poor performance relates to specific campuses, the HOS must engage with the relevant AM and HOA.  The HOA will report back to the Campus Manco, where needed.g)
+The HOS must report concerns to the CAO, with a copy to the relevant EH. NOTE: The process above is a minimum standard. Schools are encouraged to also add personal contact, and/or WhatsAppmessages where possible and feasible.
+SOP for At Risk (Assessments) V0.01/22  7
+2.3Measurements and Service LevelsMeasurementsMetrics (Specific, Measurable, Attainable, Relevant, Time-bound)TargetProcess ReferenceSend reminder announcementOne week before due date1.2 (a)Message students who achieved less than 50%Within 2 business days of due date1.2 (b)Export and save list of poor performance in TeamWithin 2 days of posting grades1.2 (c)Lecturer emails AM and MCWithin 5 days of due date1.2 (d)AM considers lists Weekly1.2 (h)3.ANNEXURES3.1 Annexure A:Procedure to download list of non-submissions in Canvas3.2Annexure B:Teams folder structure3.3Annexure C:Sample Canvas message3.4Annexure D:Procedure to download list of <50% assessment results3.1AnnexureA: Procedure to download list of non-submissions in CanvasCourse > New Analytics:New Analytics > Reports:
+SOP for At Risk (Assessments) V0.01/22  8
+Reports > Missing Assignments:
+Download and rename Report to required format:
+3.2AnnexureB: Teams folder structure
+MS Teams> Assessments (At Risk) Team > General > Files:
+SOP for At Risk (Assessments) V0.01/22  9
+School > Campus:
+Campus > Module:
+Module > Assessment Reports:
+3.3Annexure C: Sample Canvas messageTHIS IS MERELY A SAMPLE MESSAGE, providing ideas for what must be covered–it must be customisedby the lecturerto suit the the specific module/assessment.DearStudentThe marks for assessment XX have been released and I noticed that you have achieved less than 50% for this assessment, which contributes XX to your final mark. I would like to encourage you to accessand carefully considerthe individualised feedback commentson yourassessment.  Should you experience any problems
+SOP for At Risk (Assessments) V0.01/22  10
+accessing the feedback, please ask for assistance.I have also uploaded general feedback on the XX page, based on the areas that most students struggled with. [There is a resubmission opportunity, due on XX]Do not hesitate to ask any of your academic questions in the Module Q&A forum and visit the forum regularly to learn from other students’ questions.  My consultation hours are indicated on the MEET YOUR LECTURER pageif you want to discuss a specific aspect of the work. I would like to encourage you to access the support available to you, to improve your marks. If you are experiencing challenges unrelated to the content of this module, remember that the Centre for Student Support offers a variety of support initiatives, and you may also access counselling services at the Centre.Regards
+SOP for At Risk (Assessments) V0.01/22  11
+3.4Annexure D:Procedure to download list of <50% assessment resultsCourse > Grades (Gradebook):Gradebook> Specify Assignment Name:
+Gradebook> Actions > Export Current Gradebook View:
+SOP for At Risk (Assessments) V0.01/22  12
+Open Report to review and refineformat(sorting on Assessment Column):
+SOP for At Risk (Assessments) V0.01/22  13
+4.REFERENCE DOCUMENTSSTADIOPolicy on the Management of Students At Risk

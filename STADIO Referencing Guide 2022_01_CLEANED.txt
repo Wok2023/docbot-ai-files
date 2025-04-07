@@ -1,0 +1,2275 @@
+© STADIO (Pty) Ltd.
+No part of this publication may be reproduced, stored in a retrieval system or transmitted in
+any form or by any means – electronic, electrostatic, magnetic tape, mechanical,
+photocopying, recording or otherwise – without the permission of the publisher.
+STADIO Referencing Guide
+© STADIO (Pty) Ltd. – STADIO Referencing Guide 2022_01
+ii
+Table of contents
+Heading
+Page number
+1.
+Introduction
+4
+1.1
+Why should you reference?
+2.
+Plagiarism
+6
+2.1
+What is plagiarism and why is it important to be aware of it?
+2.2
+Avoiding plagiarism
+7
+3.
+Copyright
+9
+3.1
+Copyright/plagiarism
+3.2
+Detection of plagiarism and breach of copyright
+10
+4.
+The STADIO referencing system
+12
+4.1
+When to use references
+4.2
+Which referencing system should you use?
+13
+4.3
+Methods of ‘in-text referencing’ or citation
+14
+4.4
+Paraphrasing
+20
+4.5
+Quotations
+4.6
+When no date is indicated for the year of publication
+24
+4.7
+Place of publication is unknown
+4.8
+Publisher is unknown
+4.9
+Page numbers
+4.10
+Formatting the reference list
+26
+4.11
+Websites as sources of information
+5.
+Guidelines on citations and compiling reference lists
+28
+5.1
+Books
+5.2
+Journal articles: citations and reference list
+32
+5.3
+Newspaper articles
+37
+5.4
+Law cases
+39
+5.5
+Multiple works by the same author
+40
+5.6
+Email correspondence
+5.7
+Web pages
+42
+5.8
+Conference paper and conference proceedings
+43
+5.9
+Theses and dissertations
+44
+5.10
+Personal interviews
+5.11
+Study guides and lecture notes
+45
+5.12
+Secondary sources
+5.13
+Government publications
+46
+iii
+5.14
+Unpublished raw data
+48
+5.15
+Multimedia
+5.16
+Artwork and designs
+50
+5.17
+Student original work
+54
+5.18
+Social Media
+5.19
+Example of a list of references
+58
+6.
+Frequently asked questions (FAQs)
+64
+6.1
+General
+6.2
+Dates
+6.3
+Citations
+65
+6.4
+Reference list
+66
+References
+68
+ANNEXURE 1
+69
+Format
+Abbreviations
+Capital letters
+70
+Headings
+Italics
+At STADIO, you will be expected to compile and submit various documents for tuition
+and assessment purposes. The work you submit may be in the form of study materials,
+assignments, reports, dissertations, proposals, essays and projects. In preparing for
+and compiling these documents, you will be expected to consult, read, review,
+analyse, debate and paraphrase information from a wide variety of sources, including
+books, journals, research reports, magazines, websites, eDocuments, eJournals,
+eBooks, CDs, DVDs, films, conference proceedings, newspapers, brochures, white
+papers, green papers, Government Gazettes, policies and Acts.
+Each time you refer to an idea, concept, theory, model or explanation from an
+information source, you need to identify and acknowledge the source − both in the
+text of your document and in a reference list at the end of your document. The practice
+of acknowledging sources (whether it is an author, editor, compiler, composer,
+director or organisation) is known as referencing.
+It is extremely important that you cite information sources accurately whenever you
+refer to or use someone else’s ideas, opinions, theories, research, data, etc. Kotze
+(2009:19) argues that a reference is required whenever you:
+•
+quote (use someone else’s exact words).
+copy (use figures, tables or structure).
+paraphrase (convert someone else’s ideas into your own words).
+summarise (use a brief account of someone else’s ideas).
+adapt (make minor revisions or remodel someone else’s ideas, models,
+theories, illustrations, etc.).
+WHY SHOULD YOU REFERENCE?
+According to Harris (2000:23), references assist the author to:
+acknowledge all the sources of information accessed.
+substantiate arguments and discourse within the text.
+avoid plagiarism, even when it is unintentional.
+enable the reader(s) to follow up the source material.
+show the scope and depth of the research.
+5
+strengthen the academic argument in the text.
+show the reader the source of their information.
+enable the reader to consult their sources independently.
+enable the reader to verify the information/data provided in the text.
+OF IT?
+In the academic context, we are continually engaging with other people’s ideas. We
+read them in texts, hear them in lectures, discuss them in class, and consequently,
+often incorporate them into our own writing. As a result, it is very important that we
+give credit where it is due by clearly signalling to the reader the precise sources from
+which ideas and information have been taken.
+Whenever you produce written work, such as assignments or answers to exam
+questions, you must differentiate between your own ideas and those of others. You
+must distinguish what you have written from what you are quoting directly or from
+what you are referring to.
+Using someone else’s ideas and not crediting those ideas properly (by referencing and
+citing your sources) and thus presenting them as your own is plagiarism. Plagiarism
+is cheating or academic fraud. Students found guilty of plagiarism will be punished.
+Examples of plagiarism are:
+Copying word for word (verbatim) from sections of a text (books, articles,
+newspaper and magazine articles, study materials, etc.)
+Using someone else’s work or ideas in a slightly altered form (such as
+substituting words for others with a similar meaning or paraphrasing) without
+acknowledgement
+Copying from a classmate or from someone who completed the course before
+you.
+To prevent accusations of plagiarism, it is essential that you provide references
+whenever you quote (use the exact words), paraphrase (use the ideas of another
+person, in your own words) or summarise (use the main points of another’s opinions,
+theories or data) from a source or text.
+The Declaration of Authenticity that appears on the assignment cover sheet must be
+signed. Subsequently, you cannot plead ignorance; by signing the declaration, you
+admit that you have read and understood the nature of plagiarism and that your work
+does not contain any plagiarised content. Should you fail to sign this declaration, your
+assignment will not be marked.
+It does not matter how much of the other person’s or institution’s work you use
+(whether it is one sentence or a whole section), or whether you do it unintentionally
+or on purpose. If you present the work as your own without acknowledging that
+person/institution, you are committing plagiarism − an act tantamount to theft. You
+are taking someone else’s work and passing it off as your own. Because of this,
+plagiarism is regarded as a very serious offence and carries heavy penalties.
+STADIO owns the copyright on all its academic material. This means that whoever
+wishes to use STADIO material for assignments may do so, as long as they have
+properly referenced the material used. This is true even if parts of the material are
+used in the answer to an assignment question. Failure to do this is seen as plagiarism
+and the student may either lose marks for the sections(s) copied or face disciplinary
+action.
+You must give acknowledgement whenever you use:
+another person’s or institution’s ideas, opinions or theories.
+any facts, statistics, graphs, drawings − any pieces of information that are
+not common knowledge and that have been published. This applies to
+magazine and newspaper articles, as well as to all academic publications.
+quotations of someone’s actual spoken or written words or paraphrases of
+another person’s/institution’s spoken or written words.
+To avoid plagiarism:
+Use quotation marks for everything that comes directly from the text (please
+do not exceed 175 words in total for the entire quote when you quote).
+Paraphrase, but be sure you are not just re-arranging or replacing a few
+words. Instead, read over what you want to paraphrase carefully, cover up
+the text with your hand, or close the text so you cannot see any of it. Write
+out the idea in your own words without peeping, and cite the source you have
+8
+used in brackets after you have completed the idea. Check your paraphrasing
+against the original text to be sure you have not accidentally used the same
+phrases or words, and that the information is accurate (see also section 4.4).
+Use your own words, whether you have worked in a group or not. Never use
+a colleague/friend/family member’s assignment and merely paraphrase a
+number of words. It is never acceptable for students to share one electronic
+copy of the answers and to make minor changes before hand-in. Also, never
+share your assignment with anyone prior to hand-in date − you will notice
+that you are required to confirm on the Declaration of Authenticity that you
+have not made your assignment available to anyone else.
+The content in STADIO study guides and teaching documents is not intended to be
+sold for commercial purposes. Such content is in essence part of tuition and
+constitutes an integral part of the learning experience.
+COPYRIGHT/PLAGIARISM
+When authors/students/academics submit work1, the same copyright/ plagiarism rules
+apply. No amount of any type of content should be used without reference in a way
+that is in line with accepted rules for academic work and as referred to in authoring
+contracts.
+The following are guidelines:
+a)
+A direct quote from another author’s work may not exceed 175 words for the
+total quote, should be in quotation marks and should be referenced properly.
+b)
+No amount of plain text may be copied from another publication other than
+for referenced quotes as mentioned above.
+c)
+Authors can represent a diagram from another author with a reference. Such
+a diagram should form an integral part of the academic argument provided to
+the students. If such a diagram is changed in any way for the purposes of
+representation, the original author should be acknowledged and referenced.
+d)
+Any presentation of photos and artwork can only be done with the permission
+of the photographer or the original artist. LISOF students may use images for
+assessments, provided they reference the author accordingly.
+e)
+As part of learning activities, links can be provided to free video clips in the
+public domain to follow and watch as further enrichment, and as part of
+exploration beyond the basic learning content.
+f)
+As part of activities, links can also be provided for the above purpose to
+external websites for further enrichment and as part of exploration beyond
+the basic learning content. However, content of such websites is protected by
+1  When we say ‘work’, it could refer to anyone's ideas such as words, images, audio, videos, designs textbooks,
+Internet web pages, newspapers, magazines, photographs, illustrations, diagrams and many more.
+the same rules as for printed text and may not be used without a reference
+and/or permission.
+g)
+Practices such as in-linking or deep-linking (linking into a particular website
+towards a specific target, or links that import images and other pieces of
+content directly) are not allowed.
+All STADIO teaching materials and academic content are scanned by an approved and
+appropriate similarity detection programme such as Turnitin. These programmes are
+widely used to alert researchers, students and institutions such as STADIO to
+problems in texts related to plagiarism and copyright. Texts found to contain problems
+will be referred back to authors and the necessary steps will be taken.
+Authors are reminded of their contractual responsibilities in terms of submitting
+original work, and the obligation to reference, acknowledge and respect the work of
+other authors. It is a contractual responsibility of an author to follow accepted
+copyright rules and not to commit plagiarism.
+There are four forms of plagiarism:
+The work submitted or presented has been done by someone other than the
+person submitting the work.
+When the whole work, such as an essay, is copied from some other source.
+When parts of the work are taken from another source and no reference is
+made to the original author.
+When a student submits or presents work in one course which has also been
+submitted in another course, and has not sought approval from the course
+coordinator to do so.
+In summary, plagiarism refers to any or all of the following:
+To steal and pass off the ideas or words of another as one's own
+To use another's production (written or media) without crediting the source
+To commit literary theft (stealing the writing of someone else and presenting
+it as your own)
+To present an idea or product as new and original while deriving it from an
+existing source
+Turning in someone else's work as your own
+11
+Copying words or ideas from someone else without giving credit
+Failing to put a quotation in quotation marks
+Giving incorrect information about the source of a quotation
+Providing a false (non-existent) source
+Changing words, but copying the sentence structure of a source without giving
+credit (not properly paraphrasing)
+Copying so many words or ideas from a source that it makes up the majority
+of your work, whether you give credit or not.
+You must provide a reference whenever you quote, paraphrase or summarise
+someone else’s ideas, models, theories or data. You must also reference any graphic
+information (such as graphs, pictographs, tables, illustrations, etc.) that you use.
+Some of the sources you will need to reference include the following:
+Books or chapters in books
+Journal or newspaper articles
+Conference papers
+Films or television programmes
+Personal communications, such as emails, interviews or letters
+Electronic sources, such as web pages, journal articles from online databases,
+or electronic discussion forums, etc.
+Kotze (2009) points out that references should be used whenever you:
+quote the exact words of another author.
+refer to, paraphrase or summarise someone else’s ideas, theories, arguments
+and/or research in your own words.
+present another author’s interpretation, point of view, opinion or
+understanding about an issue in your own words.
+state specific factual information, such as statistics, graphs, facts, verbal
+interviews.
+present diary entries that you have obtained from someone/somewhere else.
+present a table, graph, figure or diagram taken or adapted from another
+source.
+construct a table, graph, figure or diagram from data or information taken
+from another source (i.e. a source other than data that you have collected
+yourself).
+WHICH REFERENCING SYSTEM SHOULD YOU USE?
+There are different referencing systems used in academic writing. STADIO uses an
+adapted version of the author–date system, commonly known as the Harvard
+Referencing System. This adaptation is called the STADIO Referencing System.
+The author–date referencing system comprises two parts, namely:
+The author and the date are referred to in the text or main body of your writing
+(called embedded or in-text referencing).
+All the resources referred to in the body of writing are included in the
+Reference List at the end of the text/assignment. All information is included
+in this list: author, date, title of publication, publisher and where it was
+published.
+The other features of author–date referencing include:
+a specific order in which the information should be structured.
+the in-text reference, which should be placed (cited) in such a way that it
+causes minimal disruption to the flow of your writing. This usually means that
+the in-text referencing will appear at the very end or the very beginning of
+your sentences (see ways of citing below).
+When you cite sources of information in the text, regardless of whether you quote,
+copy, paraphrase or summarise, you should include:
+the author’s surname (family name).
+the year of publication (latest edition).
+page numbers, when directly quoting or closely paraphrasing an author’s
+words/material.
+correct punctuation and spacing.
+You are therefore advised to adhere strictly to the referencing conventions as
+explained in this guide.
+METHODS OF ‘IN-TEXT REFERENCING’ OR CITATION
+The STADIO Referencing System acknowledges the following methods of citing
+references, namely:
+author-prominent citations
+information-prominent citations
+image referencing (caption method)
+image referencing (thumbnail method)
+referencing edited or original images or photographs.
+Author-prominent citation
+This approach/style gives prominence to the author by using the author’s surname
+(family name) with the date, followed by a colon and the page number in parentheses
+(round brackets).
+Examples
+Direct quote:
+Govender (1999:31) argues that “school teachers in South Africa confuse the term
+technology as being solely concerned with computers, machines and gadgets”.
+“Design is notoriously complex to define ... It improves existing conditions in various
+levels of society” (Aspelund, 2010:22).
+Design is important because “[i]t improves existing conditions” (Aspelund, 2010:22).
+Design has the potential to fix problematic conditions in “various levels of society”
+(Aspelund, 2010:22).
+Paraphrase (see also section 4.4):
+Govender (1999) suggests that South African schoolteachers have an ill-conceived
+perception that technology refers mainly to machines and gadgets.
+According to Aspelund (2010:22), designing can improve existing conditions.
+15
+Please note
+If the author is an “institution, organisation or non-human”, the in-text reference
+should be at the end of the sentence or quotation, for example:
+“Technology education is a largely unexplored concept in South Africa” (UN Report,
+2007:29),
+and not
+According to the UN Report (2007:29), “Technology education is a largely unexplored
+concept in South Africa.”
+Information-prominent citation
+This method of citing references gives prominence to the information, with all the
+required referencing details in parentheses at the end of the citation.
+It has been argued that “school teachers in South Africa confuse the term technology
+as being solely concerned with computers, machines and gadgets” (Govender,
+1999:31).
+South African schoolteachers have an ill-conceived perception that technology refers
+mainly to machines and gadgets (Govender, 1999:31).
+16
+Image referencing (caption method)
+STADIO School of Fashion uses the caption method for modules, including marketing,
+consumer behaviour, retail management, entrepreneurship and business, for theory
+assessments such as:
+reports
+analyses
+rationales.
+Caption method requires:
+Caption underneath the image providing a figure number, in-text citation
+(same as in-text referencing rules). Location, if available.
+Matching reference entry in a separate image reference list at the end of your
+assessment. Remember to provide all necessary information.
+Example
+The image to the left was sourced from cosmopolitan.com.
+Although Emma Baty wrote the article, this image has been
+used with permission (and payment) from a photographer.
+On the website, a caption underneath the image credits the
+photographer, Dan MacMedan. The photographer is therefore
+the author of the image, not Emma Baty.
+.
+Figure 1: MacMedan, 2019. Miley Cyrus at the Grammy Awards ceremony, Getty
+images. Los Angeles.
+In a separate image reference list at the end of the assessment:
+MacMedan, D. 2019. Miley Cyrus at the Grammy Awards ceremony, Getty images.
+[Online image]
+https://www.cosmopolitan.com/entertainment/celebs/a30657741/where-is-miley-
+cyrus-grammys/ [Accessed: 24.01.2020]
+17
+Image referencing (thumbnail method)
+Used for practical or visually-oriented modules, including creative design, visual
+merchandising, trend analysis and computer literacy, for practical assessments such
+as:
+mood, trend or design boards
+presentations
+visual analysis.
+In practical assessments, you must compile a visually appealing presentation filled
+with images for various purposes, such as a PowerPoint, mood board or look board
+presentation. In this case, adding many captions would look ugly and distract the
+viewer from the purpose of the board − to present visual information.
+The thumbnail method requires you to compile a separate visual reference list using
+a smaller ‘thumbnail’ version of the image next to the reference list entry. This allows
+your marker to verify image sources without the use of captions.
+MacMedan, D. 2019. Miley Cyrus at the Grammy Awards ceremony,
+Getty images. [Online image]
+cyrus-grammys/ [Accessed: 24.01.2020]
+Referencing edited or original images or photographs
+Adaptions/collages examples:
+Caption method:
+Caption template − Figure number: Adapted from Photographer/artist
+surname (year). Description of image.
+Figure 1: Adapted from Rick (2013). Infographic diagram of the 5 Ps of Marketing
+18
+Reference list entry: Rick, T. 2013. Infographic diagram of the 5 Ps of
+Marketing. [Online image]
+https://www.torbenrick.eu/blog/marketing/rewrite-the-ps-of-marketing/
+[Accessed 25.01.2021]
+Thumbnail method:
+No caption
+Reference list:
+Rick, T. 2013. Infographic diagram of the 5 Ps of Marketing.
+https://www.torbenrick.eu/blog/marketing/rewrite-the-ps-of-
+marketing/ [Accessed 25.01.2021]
+Student photographs/illustrations/diagrams:
+If the image is 100% your own work, you must specify its authorship. Otherwise, your
+marker may think that the image is missing a reference and thus indicate plagiarism.
+Caption method:
+Caption template − Figure number [image format] by author (year). Description of
+image.
+Photograph:
+Figure 1 Photograph by author (2021). Green leaf pattern. Johannesburg.
+Illustration:
+Figure 1 Illustration by author (2021). Green leaf pattern. Johannesburg.
+OR
+Figure 1 Design by author (2021). Green leaf dress. Johannesburg.
+Diagram:
+Figure 1 Diagram by author (2021). Green leaf. Johannesburg.
+Image
+19
+No caption beneath image.
+Reference list entry: Author. Date. Title/Description. Location.
+Image Reference List:
+Photograph by author. 2021. Green leaf pattern. Johannesburg.
+If a source has three or more authors, the surnames of all the authors must be listed
+in the first in-text reference to the specific source. Thereafter, only the surname of
+the first author is shown in all in-text references. The surnames of the second and
+later authors are replaced with the abbreviation et al. Since et al. is an abbreviation
+for the Latin words et alii, it must always be typed in italics with a full stop at the end.
+This principle applies to all source types, for example:
+First time in use: Govender, Mhkize and Whithall (2009) argue that…
+Thereafter in the document: Govender et al. (2009) dispute the fact that…
+If a source has multiple (two or more) authors, the ampersand sign (&) may be used
+in place of the word ‘and’ where authors are listed in in-text citations that appear in
+brackets, as well as in the list of references. However, the ampersand sign (&) may
+not be used when the authors are listed as part of a normal sentence.
+Examples:
+Geczy and Karaminas (2017:9) state that Westwood’s influence on design broke down
+the historically strong relationship between fashion and wealth.
+VS
+Westwood’s influence on design broke down the historically strong relationship
+between fashion and wealth (Geczy & Karaminas, 2017:9).
+thumb-
+nail
+Paraphrasing means to restate something you have read, accurately and succinctly,
+in your own words. If your work does not refer to specific ideas on particular pages of
+a resource, but to general themes mentioned throughout the resource, page numbers
+need not be shown.
+Example
+General theme
+Meta analytical studies (Rob, 2009) reveal that South Africa cannot be classified as a
+developed country.
+Specific idea
+Rob (2009:28) claims that the economic structure of South Africa does not entitle it
+to be classified as a developed country for now.
+When to paraphrase or use quotations
+It is preferable that you paraphrase (put ideas in your own words), as too many
+quotations (using the exact words) can lead to a poorly written assignment. A general
+rule in academic practice is that no more than 10% of an assignment should be in the
+form of direct quotations. No matter whether you use quotations or paraphrase
+another’s words, you always need to give references, both in the text and in the
+reference list.
+Quotations should be used sparingly, selected carefully, used in context, integrated
+into your text and reproduced exactly (including the words, spelling, punctuation,
+capitalisation and paragraphing of the original writer). The original author’s exact
+words, including any spelling or grammatical errors, should be quoted. Kotze (2009:6)
+21
+advises us that if the original wording contains spelling or grammatical errors, one has
+to point these errors out by placing the word [sic] in square brackets in the quote
+directly after the error. The word [sic] (meaning so or thus) can be inserted in a
+quotation when the original text is incorrect with regard to grammar, spelling or
+gender.
+According to Aswy (2006:21), the DCLD is a “centre of excellence at Unisa and this
+con [sic] be attributed to the dedication of the education consultants employed at the
+DCLD”. (NB: the word ‘con’ is misspelt. [sic] has been added to denote this.)
+Babes (2005:21) argues that “when human beings interact with animals, he [sic]
+should be aware of their sensitivity to rough play”. (‘He’ is not gender sensitive, and
+therefore, the author should have stated [they].)
+Short quotations
+Short quotations (fewer than 30 words) should:
+be incorporated into your sentence without disrupting the flow of your
+paragraph.
+have double quotation marks.
+maintain the same font size.
+Incorporating a quote as part of your sentence — information prominent
+The reference comes AFTER the quotation, UNLESS you referred to the author before
+the quote: The church is not the only setting where the soul may be nurtured, as
+“[t]he soul also finds sustenance in more domestic settings, like the family home
+where customs and values have created a spirit handed down over generations”
+(Jonas 1998:9).
+Incorporating a quote as part of your sentence — author prominent
+The church is not the only setting where the soul may be nurtured. As Jonas (1998:9)
+suggests, “[t]he soul also finds sustenance in more domestic settings, like the family
+home where customs and values have created a spirit handed down over generations”.
+The square brackets around the ‘t’ – [t] – are used to indicate that in the original
+quotation, the word ‘the’ began with a capital ‘T’.
+22
+Long quotations
+Long quotations (more than 30 words) should:
+be introduced in your own words.
+begin on a new line.
+be fully indented by default (i.e. 1.27 cm) from both margins.
+be in reduced line spacing compared to the rest of the text.
+use a smaller font for the quotation (that is, change from size 10.5 to size
+10).
+Separate the quotation from the lead-in statement with one blank line. The lead-in
+statement ends with a colon (:). Separate the quotation from the text that follows it
+with one blank line. This is illustrated below.
+Friere (1998:3) summarises the effects of reducing literacy to a set of tools or skills
+when he states that:
+[m]erely teaching men [sic] to read and write does not work miracles: if there are
+not enough jobs for men [sic] able to work, teaching more men [sic] to read and
+write will not create them. When literacy is considered as a social practice, the
+relationships that exist between language use and the production and
+maintenance of cultural and ideological hegemony are uncovered.
+Quotation marks are not used for longer quotations. When using an information-
+prominent long quotation, the full stop will be included after the last sentence of the
+quotation before the citation, as shown below.
+The church is not the only setting where the soul may be nurtured as:
+[t]he soul also finds sustenance in more domestic settings, like the family home,
+where customs and values have created a spirit handed  down over generations.
+According to Thomas Moore, the soul finds sacredness in the ordinary, and may
+benefit most when its spiritual life is performed in the context of mundane daily
+life. (Jones, 1998:89)
+Words omitted from quotations
+23
+To omit words from quotations, use an ellipsis. An ellipsis consists of three full stops
+(…). Do not leave any spaces before the ellipsis or after the ellipsis. If you contemplate
+omitting parts of the quotation, make certain that the omission(s) do not alter the
+meaning of the sentence/quotation.
+Wells (1991:7) describes literacy as a “set of practices which people use in literacy
+events…and that literacy practices are situated in social relations”.
+Hint: if the quotation does not begin at the start of a sentence, an ellipsis should be
+used to convey this to the reader.
+Students may adopt a more dominant understanding of literacy because of the
+emphasis they place on literacy as a means of achieving “…equality of opportunity and
+the possibilities of liberty and democracy” (Rock, 1994:213).
+Double quotations
+For a double quotation, i.e. a quotation within a quotation, use single quotation marks
+inside double quotation marks.
+“The first words of Melville’s Moby Dick are ‘Call me Ishmael’ and these words are full
+of significance” was the first statement in Smith’s memorable speech (Johns,
+1995:43).
+The square brackets in quotations
+Sometimes in quotations, it is necessary to insert a word that explains the meaning
+of another word in that quotation. Place the explanation in square brackets.
+“The curriculum of the national schools in the 1870s included reading, writing,
+arithmetic, drill [physical exercises] and music” (Cavey, 1996:21).
+You may come across some information sources where no date/year of publication is
+given. If no year is given for a source, use n.d. (which stands for ‘not dated’) after the
+author's name.
+In-text referencing example: in a detailed analysis, Jackie (n.d.) argues…
+Reference list example: Jackie, C. Not dated. The year that was. New York:
+Caxton.
+Hint: this rule should be followed for all sources of information (i.e. you should indicate
+‘Not dated’ in the reference list for the year of publication).
+In place of publication, simply state ‘Not known’:
+Dick, K. 2001. The ride to hell. Not known: Caxton.
+When the publisher is unknown, simply state ‘Not known’:
+Dick, K. 2001. The ride to hell. London: Not known.
+Page numbers should be used when you quote directly from material (word for word)
+from the original publication. This includes tables or figures. Page numbers should also
+25
+be provided for indirect quotes and paraphrasing where the summarised material
+appears on specific pages, in specific chapters or in specific sections.
+One page referred to: Wells (1992:4)
+Pages that are not in sequence: Smith (1996:1, 4 & 6)
+Pages that are in sequence: Jones and Mackay (1998:25–26)
+Pages from a website (.html format): Clark (1997)
+Pages from a website (.pdf format): Clark & Heat (1997:2).
+Page numbers are not indicated
+You may come across sources of information where page numbers have been omitted.
+Kotze (2009:33) states that “If an original document (except a web page) does not
+have page numbers, one should still indicate to the reader on what page the
+information can be found”. He advises that this could be done by counting the pages
+from the front and then including that number in an in-text reference, indicating that
+the original pages were not numbered by placing the page count in square brackets.
+Dick (2000:[19]) states that biodiversity cannot be accommodated in the 21st century
+because...
+The title should be ‘References’ and it should be as follows:
+Bold
+Left aligned
+In the same font size as the document, 10.5 pt.
+Not underlined.
+The references contained in the list should:
+be in single line spacing.
+use a line spacing of 10.5 pt. after each reference.
+be left aligned.
+be arranged alphabetically.
+be the final page of your assignment. (Appendices/annexures are placed after
+the reference list.)
+The reference list should contain all the sources cited in the paper and no sources that
+are not cited.
+A source is listed only once in the reference list, regardless of how many times it is
+cited in-text.
+Evaluating websites for educational use
+Always be vigilant when extracting information from any electronic source. The
+standard of reliability and validity for information on websites is often not as high as
+for articles in published materials. Anyone can place information on the internet, often
+without any review process. Facts and figures on websites are sometimes misleading
+and therefore every effort should be made to choose websites very carefully.
+Reliable sources generally include:
+referenced articles in online journals.
+articles from databases selected by the university.
+articles published by universities.
+27
+reports and white papers published by government departments, business
+organisations and reputable lobby groups.
+Consider the following:
+The purpose of the website (to inform, to persuade, to sell). If you know the
+motive behind the web page, you can make an informed decision about
+whether it is suitable for your assessment.
+Is there an author/sponsor? If you cannot find an author or an organisation
+responsible for publishing the site, then it is most likely unreliable.
+Is the author qualified to write about this topic? What is the author’s
+expertise? Is the sponsor reputable? Are opinions being presented as facts?
+Try to differentiate fact from fiction. Authenticity is not always easy to confirm,
+so test one source against another. Make sure there is no bias evident.
+Ascertain whether the person presenting the information has a vested interest
+in proposing the particular view point.
+Are references or bibliographies included?
+How current is the information?
+When was the website last updated?
+Is the information well written and free of grammatical errors?
+Note
+It is accepted that some of the electronic information which you use may not be
+retrievable as it is either being updated/amended or has been deleted. To guard
+against this possibility, print the material you are referring to, or save it to a CD, DVD,
+a memory stick or in the cloud so that you have a permanent record.
+Guidelines on citations and compiling
+reference lists
+In-text referencing
+One author
+Author prominent:
+Booth (2001:23) argues
+that...
+or
+Booth (2001) defines
+strategy as...
+Information prominent:
+Strategy is an elusive
+concept to define (Booth,
+2001:23).
+Booth, J. 2001. Strategic
+interventions in leadership. 9th ed.
+London: McMillan.
+Hint: the title page verso (i.e. the
+page following directly after the
+title page) usually contains
+information on the date of
+publication, edition, place of
+publication and publisher of a
+book.
+The date of publication of a book is
+usually indicated on the title page
+verso directly after the copyright
+sign (©).
+Use normal sentence case for the
+title of the book. This means that
+only the first word of the title and
+all proper nouns are capitalised. All
+the other words in the title are
+written in small letters.
+The title of the book must be
+printed in italics.
+Where spaces are included in in-
+text references (e.g. after the
+comma and before the date) or in
+29
+entries in the list of references,
+these are always single spaces.
+There is a single space after the
+colon and before the name of the
+publisher.
+Note the full stop at the end of
+each entry in the list of references.
+Omit words such as Publishers,
+Co., Inc., (Pty) Ltd., & Sons that
+are not necessary to identify a
+If the place of publication is not
+well known, include the town/city,
+province and/or country.
+Two single
+authors with
+the same
+surname
+When referring to two
+authors with the same
+surname, publishing in the
+same year, the initials
+must be used in the text
+to distinguish between the
+two.
+The South African
+economy is… (Tshabalala,
+M.S., 2011:34).
+Data from STATSSA
+proves… (Tshabalala, T.,
+2011:266).
+Tshabalala, M.S. The South African
+economy. Cape Town: Fynbos.
+Tshabalala, T. The state of
+employment in South Africa.
+Journal of Labour, 5(2):29–45.
+Two authors
+Author prominent: Booth
+and Cooth (2003) state
+Transformative leadership
+is not conducive to young
+Booth, J. & Cooth, S. 2003.
+Leadership and management in the
+21st century. New York: Prentice
+Hall.
+30
+democracies (Booth &
+Cooth, 2003).
+Hint: note that the word
+‘and’ is used in full
+sentences, while the
+ampersand sign (&) is
+used in in-text citations
+that appear in brackets, as
+well as in the list of
+references. This principle
+applies to all source types.
+Three or more
+authors
+First appearance in the
+document:
+Meden, Tedd and Moller
+(1999:28) stated that “…”.
+A recent study highlighted
+the fact that… (Meden,
+Tedd &
+Moller, 1999).
+Second appearance in the
+the fact that … (Meden et
+al., 1999).
+Meden et al. (1999:28)
+stated that “…”.
+Hint: use an ampersand
+(&) within the parenthesis,
+but use ‘and’ in author-
+prominent referencing.
+Note: the abbreviation et
+al. (typed in italics with a
+full stop at the end)
+indicates that a source has
+three or more authors.
+Meden, J., Tedd, J. & Moller, P.
+1999. Political perspectives.
+Chicago: Prentice Hall.
+31
+The verb following the et
+al. must, therefore, always
+take the plural form; e.g.
+state that...
+Books with
+chapters by
+different
+Cite the author(s) of the
+chapter you are referring
+to.
+For example, when
+referring to information
+taken from the chapter by
+Smith mentioned below in
+an in-text reference, you
+would cite Smith
+(1996:23) in the in-text
+reference and not the
+editor (Barth).
+Smith, A.R. 1996. The strategy of
+manpower planning. In: Barth, D.,
+(ed) Human resource planning:
+Selected readings. Aylesbury, UK:
+Hazell, Watson & Viney.
+Sources with no
+date
+Bad (2003, n.d.:20)
+argues that...
+It is very difficult to
+reference if there is no
+date of publication (Bad,
+n.d.).
+Bad, J. Date not stated.
+Referencing guidelines. Essex, UK:
+Adminton.
+(monographs)
+with no author
+If no author can be
+identified, two options are
+available:
+1. ‘Anon’ (anonymous) can
+be used. For example:
+The state of the
+American economy
+does not support global
+markets (Anon,
+2011:3).
+2. The author can be an
+institution, such as a
+university, association
+or journal. The
+Anon. 2011. The global financial
+markets. Stock market mercury,
+60(5):69, 7 August.
+abbreviation is used in
+the text with the full
+name in the source list.
+“Due to the low salaries of
+academics at South
+African universities…”
+(Unisa, 2011:40).
+Editor(s)
+The abbreviations ‘ed’
+(editor) or ‘eds’ (editors).
+Institution/
+organisation/
+society as an
+author
+The author can be an
+university or association.
+The abbreviation is used in
+the text with the full name
+in the source list.
+Unisa (University of South Africa).
+2011. The brain drain. Pretoria.
+JOURNAL ARTICLES: CITATIONS AND REFERENCE LIST
+Single author Author prominent: Booth
+(2001:23) argues that...
+Booth, J. 2001. Strategy development
+in geography teaching. South African
+Journal of Higher Education,
+21(2):34–39.
+Hint: use sentence case for the title of
+the article. This means that only the
+first word of the title and any proper
+nouns are capitalised. All the other
+words in the title are written in small
+letters.
+33
+Use title case and italics for the title of
+the journal. Title case means that all
+the major words in the title of the
+journal are typed in capital letters.
+Minor words, such as ‘in’, ‘of’, ‘and’,
+‘the’ or ‘an’ are not capitalised.
+There are no spaces between the
+volume, issue number and page
+numbers.
+Where spaces are included in in-text
+references (e.g. after the comma and
+before the date) or in entries in the
+list of references, these are always
+single spaces.
+that…
+that appear in brackets,
+as well as in the list of
+references.
+This principle applies to
+all source types.
+Booth, J. & Cooth, R. 2001. Strategy
+development in pre-school teaching.
+South African Journal of Education,
+29(5):134–139.
+Three
+Meden, J., Tedd, S. & Moller S. 1999.
+The bigotry of science. Australian
+Journal of Science, 60(3):49–73.
+34
+Tedd & Moller, 1999).
+(1999:28) stated that
+“…”.
+the fact that… (Meden et
+(&) within the
+parenthesis, but use ‘and’
+in author-prominent
+referencing.
+Note that the abbreviation
+et al. (typed in italics with
+a full stop at the end)
+indicates that a source
+has three or more
+authors.
+Journal
+volume
+known;
+however,
+number is
+unknown
+First appearance  in the
+Tedd & Moller, 1999).
+Journal of Science, 60:49–73.
+35
+Volume and
+month
+known,
+number
+Journal of Science, 60(April):49–73.
+Month
+volume and
+Journal of Science, April:49–73.
+36
+Author is
+Referencing is difficult
+when the author is
+unknown (Anon.,
+2008:23).
+Hint: never begin a
+sentence with an
+unknown author. For
+example:
+According to Anon.
+(2008:23), “Referencing
+is difficult when the
+author is unknown”.
+Anon. 2008. Referencing in the
+Sciences. Science News, 200(90):34–
+36.
+Electronic/
+online
+journals
+Online journals can
+appear in two formats,
+namely:
+• .html
+• .pdf
+When an electronic
+journal article is printed
+or viewed in .html format,
+the number of pages will
+differ depending on the
+printer, page set-up and
+font size used when the
+article is printed. As a
+result, page numbers are
+not mentioned in in-text
+citations. However articles
+viewed in .pdf format
+have fixed page numbers
+and font sizes, therefore
+we can refer to the exact
+Jane, B. 2005. Alternate fuels for SA.
+Fuels International, 2(7):40(22pp).
+American Educational Research
+Association Stable:
+http://www.jstor.org/stable/3594377
+[Accessed: 19.02.2009]
+Hint: the page indication of 40 (22p)
+indicates that the article started on
+p. 40 of the original paper-based
+journal and that it was 22 pages long
+when printed from the internet. This
+page indication also alerts the reader
+to the fact that the article was viewed
+in .html format.
+Fuels International, 2(7):40(22p):40–
+62. American Educational Research
+page numbers in the
+article.
+Hint: if you quote from a
+journal article in .html
+format, there is no need
+to provide page numbers
+in brackets after the
+author’s surname, even if
+it is a direct quote.
+Example:
+Jane (2005) argues that
+“Gas is a cheaper
+alternative to power in
+SA”.
+If you quote from an
+article in .pdf format,
+make certain that your
+citation has page
+numbers where
+appropriate.
+Jane (2005:40–62)
+intensifies her struggle...
+Hint: the inclusion of page numbers
+(40–62) indicates that this article was
+downloaded in .pdf format. If page
+numbers are included here, page
+numbers must also appear in all in-
+text references to this source.
+Print-based
+Author prominent:
+Booth (2001:23) argues that... or
+Booth (2001) defines strategy as...
+Information prominent: Strategy is
+an elusive concept to define
+(Booth, 2001:23).
+Booth, J.A. 2009. Xenophobic
+violence in Thokoza
+Township. The Star, 21
+March:16.
+38
+Unknown
+There are three options that you
+can employ when referencing a
+newspaper article of which the
+author is unknown:
+Use the term ‘Anon.’ in the place of
+the author.
+Example:
+According to Anon. (2009)...
+Use the name of the newspaper in
+place of the author.
+Municipalities are becoming
+ungovernable in South Africa (The
+Star, 2009:16).
+Use the title of the article in place
+of the author.
+ungovernable in South Africa
+(Who’s fooling who? 2009:16).
+Hint: never begin a sentence with
+the title of the newspaper or the
+title of the article when in the
+author-prominent mode.
+According to The Star (2009:16)...
+Who’s fooling who? (2009:16)
+states that...
+Anon. 2009. Who’s fooling
+who? The Star, 21 March:16.
+Online
+newspaper
+article
+Samson (2006) states that “Gold
+mining is dying a slow death in
+Samson, C.S. 2006. Gold will
+lose its shine. Business Day,
+7 October.
+http://www.thestar.co.za/arti
+cles/national.aspx?ID=32641
+2 [Accessed: 07.10.2008]
+The standard reference format is:
+Case name
+Year
+Volume
+Law report
+series
+Page
+case
+begins
+Court
+Exact
+reference
+Venter v Van
+der Westhuizen
+2001
+258
+934
+F
+at 968A G
+The following aspects are important when referencing law cases:
+The names of the parties are always in italics.
+When a page or paragraph is cited, the page and paragraph number have to
+be preceded by the word ‘at’:
+Venter v Minister of Higher Education and Training 1995 (3) SA 665 (C) at
+688 G
+Sometimes the court numbers the paragraphs of a judgement. The paragraph
+of the court can be cited as well:
+Van der Westhuizen v Castrillon 2004 (1) SA 111 (CC) par 43 at 456 M
+First appearance in
+document:
+Venter v Minister of Higher
+Education and Training [1995
+(3) SA 665 (C) at 688 G]
+Venter v Minister of Higher Education and
+Training 1995 (3) SA 665 (C) at 688 G
+Second appearance in
+Education and Training (1995)
+Where there are several
+works by one author and
+they are published in the
+same year, they should be
+differentiated by adding a
+lower-case letter after the
+date.
+Remember that this must
+also be consistent with the
+citations in the text. For
+multiple works, the required
+elements for a reference are:
+Author. Year. Title of book.
+Place of publication:
+Publisher.
+Example:
+Jade (2009a) argues that...
+Jade (2009b) refutes the
+argument that...
+Jade, B. 2009a. Policies and practices. New York:
+Jade, B. 2009b. Policies on Leadership. New
+York: Caxton.
+Hint: works by the same author should be
+displayed in chronological order, with the earliest
+appearing first.
+According to Mkize (2008),
+Master’s in Education
+students...
+Surname of sender. Initials of sender. Year. Title
+or subject of email message. [Email to:]
+Receiver’s surname. Receiver’s initials. Date
+received.
+41
+Mkize, G. 1996. Discussion of M.Ed. audits. [Email
+to:] Govender, D. 15.05.2009.
+Hint: copies of such correspondence (email)
+should be kept, as these may need to be
+submitted as an appendix in an academic
+submission.
+Obtain permission from the email sender/ recipient
+before these sources are quoted.
+Reference List
+Kotze (2009:29–30) states
+that web pages refer to any
+information (other than
+articles from web-based
+electronic journal platforms
+or web-based electronic
+journals) that is published on
+the World Wide Web. He
+goes on to add that one can
+distinguish between web
+pages (in .htm, .html, .xml &
+.asp format) and files that
+can be downloaded from the
+web (in .doc and .pdf
+format). The basic in-text
+structure of a reference to
+information on the World
+Wide Web is as follows:
+Author’s Surname (date
+written)
+Note:
+The date should appear after
+the author’s surname.
+If the name of the author is
+not available, please use the
+name of the organisation
+associated with the website.
+Author’s Surname, Initials. Year. Title of article or
+web page in sentence case.
+URL [Accessed: date accessed]
+Oorende, B. 2008. Acceptance speech of the
+chairman of Anglo Saxon Incorporated on 17 May
+2008. http://angloinc/ans/ speeches/accept.html
+[Accessed: 17.05.2008]
+Hint: in some cases, websites continuously change
+and it is therefore advisable to print and file a
+copy of the front page of any website you use,
+especially for future reference.
+Additional examples:
+Duncanson, M.  2012. Abstract art landscape
+seascape bold colourful artwork serenity by
+Madart. FineArtAmerica [Online image]
+https://fineartamerica.com/ featured/abstract-art-
+landscape-seascape-bold-colorful-artwork-
+serenity-by-madart-megan-duncanson.html
+[Accessed: 01.12.2019]
+Mr Price Group Ltd. 2018. Who we are – vision,
+purpose and values. https://www.mrpricegroup
+.com/mr-price-group-about-
+us.aspx?loc=whoweare [Accessed: 01.12.2019]
+Conference paper
+According to Tshibalo
+(2009:10), the aim of
+geothermal power
+generation is to...
+Tshibalo, E. 2009. Geothermalise
+Africa? Paper presented at the
+Tenth International Geothermal
+Conference, Umdloti, KwaZulu-
+Natal, 10–15 October.
+Hint: italicise the title of the
+conference.
+Conference
+proceedings
+Africa? In: Govender, D. (ed).
+Proceedings of the paper presented
+at the Tenth International
+Geothermal Conference, Umdloti,
+KwaZulu- Natal, 10-15 October
+2009:89-100.
+Online/
+electronic
+conference
+proceedings
+KwaZulu- Natal, 10–15 October:89–
+100. American Educational Research
+http://www.jstor.org/stable/359437
+7 [Accessed: 19.02.2009]
+Hardcopy
+According to Mrs G.S.
+Benjamin from Radio
+Cactus (2008:1), there was
+no embezzlement of
+funds...
+Benjamin, G.S. 2005. Fraud in
+South African Broadcast
+Institutions: A Case Study.
+Unpublished Master’s in
+Education Thesis: University of
+Cuckooland.
+Electronic
+version
+South African broadcast
+institutions: a case study.
+Education thesis: University of
+Cuckooland.
+UCLintra:
+http://uclintra.ucl.ac.za/thesis/a
+vailable-0945312345 [Accessed:
+19.02.2001]
+Audio/video
+recorded
+conversation
+funds…
+Benjamin, G.S. Personal
+communication with the author
+on 30.08.2008. Chatsworth,
+KwaZulu-Natal. (Recording in
+possession of the author.)
+Written
+transcript of the
+KwaZulu-Natal. (Transcript/notes
+in possession of the author.)
+According to Porta
+(2003)…
+Porta, A.B. 2009. Study guide for Marketing
+Management 405: Strategic Issues in Marketing.
+Pretoria: Department of Marketing and Communication
+Management, University of South Africa. (Where no
+author is provided for a study guide, use then STADIO
+as author).
+Aswy, T.S. 2003. Finding an appropriate research topic:
+Some practical guidelines. Lecture to the URT 302 class
+on 19 March 2009.
+Hint: note that the names of academic disciplines (e.g.
+Marketing Management, Communication Management or
+Tourism Management) or the names of specific
+modules/courses (e.g. Strategic Issues in Marketing or
+the Marketing of Services) are treated as proper nouns
+and are, therefore, typed in title case.
+Van der Merwe (as
+quoted by Jones,
+1988:244) was of the
+opinion that…
+Jones, A.B. The prevalence of violence in schools. 3rd
+ed. Pretoria: Waterberg.
+Hint: the use of secondary sources is not regarded as
+academically acceptable and should be limited to
+exceptions. Only the source that has been used appears
+In-text
+referencing
+Councils
+The Council is
+of the opinion
+that… (CHE,
+2011).
+CHE (Council for Higher Education). 2011.
+Report on the state of higher education in South
+Africa. Pretoria.
+Commissions
+of enquiry
+with known
+chairperson
+According to
+the
+Commission
+there was no…
+(Hefer,
+2011:45).
+Hefer, R., chair. 2011. Report of the
+Commission of Inquiry into banking practice in
+South Africa. Pretoria: Government Printer.
+without
+known
+Commission,
+(2011:45).
+South Africa. 2011. Report of the Commission
+of Inquiry into banking practice in South Africa.
+Pretoria: Government Printer.
+Departments
+The
+employment of
+people over the
+age of 25…
+(South Africa,
+2011:36).
+South Africa. 2011. Department of Labour.
+Annual Employment Report. Pretoria:
+Government Printer.
+Government
+Gazette
+In cases where
+close
+corporations
+were not
+notified…
+2011:2).
+South Africa. 2011. The registration of close
+corporations. (Proclamation No. W. 3654,
+2011). Government Gazette, 399:23, 18 Jan.
+(Regulation Gazette no. 23).
+Provincial
+(Western Cape,
+Western Cape (South Africa). 2011. The
+registration of close corporations. Western Cape
+Provincial Gazette, 5654:3–15, 9 Sept.
+47
+Constitution
+In terms of
+Article 30 (3) of
+(1996),
+everyone has
+the right to…
+South Africa. 1996. Constitution of the Republic
+of South Africa, 1996 as amended until 2012.
+http://www.justice.gov.za/legislation/constitutio
+n/SAConstitution-web-eng.pdf
+Acts
+The Council for
+Higher
+Education is
+overseeing the
+quality…in
+terms of the
+Education Act
+(45/2008).
+South Africa. 2008. The Higher Education Act 45
+of 2008. Pretoria: Government Printer.
+ordinances
+Establishment
+of the
+Consumer
+Rights Board
+was finalised
+Western Cape (South Africa). 2011.
+Establishment of Consumer Rights Board. (In
+Western Cape ordinances. Economic
+Development. Cape Town: Laudatum. Premier’s
+notice, P.N. 9.)
+Green papers
+Environmental
+education
+incorporated in
+national
+curriculum (SA,
+South Africa. Department of Basic Education.
+2011. South Africa’s Green Paper on
+Environmental Education. Pretoria: Government
+Printer.
+White papers
+The White
+Paper on
+Education (SA,
+2011:56)
+outlines the
+new
+curriculum…
+2011. The White Paper on Environmental
+Education in South Africa. Pretoria: Government
+Printer.
+According to Singh
+and White (2011),
+there is…
+Singh, P. & White, L. 2011. (The passion of MBA students
+for research). Unpublished raw data.
+Hint: use brackets to indicate that the material is a
+description of the content, not a title. Do not use italics
+for title.
+Sound
+recording
+According to Oosthuizen
+(2011) there are…
+Oosthuizen, C. 2011.
+Entrepreneurship in action [Audio
+Cassette]. Johannesburg: Milpark
+Media.
+Film
+Recent presentations of
+informal trading
+(Oosthuizen, 2011) in…
+Oosthuizen, C. (Producer). 2011.
+Entrepreneurship in action [Motion
+picture]. Johannesburg: Milpark
+Television
+Oosthuizen (2011) rejects… Oosthuizen, C. (Producer). 2011.
+Entrepreneurship in action [Television
+broadcast: (03.01.2011].
+Johannesburg: Milpark Broadcasting
+Services.
+video
+Oosthuizen (2011)
+describes…
+Oosthuizen, C. (Producer/owner).
+2011. Entrepreneurship in action
+[Online video].
+https://www.youtube.com/watch?v=iy
+TTX6Wlf1Y  [Accessed: 12.2.2014]
+CD-ROM
+(2011), it will…
+Entrepreneurship in action (Audio CD).
+Johannesburg: Milpark Media.
+presents…
+Entrepreneurship in action (DVD).
+49
+Also, the following:
+Source
+type
+Format
+In-text citation
+Audio
+songs
+Artist. Year. Song
+name, Album title.
+[Audio]:
+Producer/
+Publisher label.
+Kanye West. 2010. All of
+the lights ft Rihanna and
+Kid Cudi, My beautiful
+Twisted Fantasy. [Audio]:
+Kanye West & Jeff
+Bhasker.
+Repetition for
+emphasis is found in
+many of West’s lyrics
+(e.g. Kanye West,
+2010).
+videos
+(including
+YouTube)
+Director/creator
+surname, initial.
+Year. Title of
+Video.
+Publisher/House
+(if relevant).
+[Format] <URL>
+[Accessed date].
+Korie, D. 2016. South
+African boys singing
+Nomvula. [YouTube]
+https://www.youtube.com
+/watch?v=qlN1kSptPiQ
+[Accessed: 01.09.2019].
+Nomvula is a popular
+song amongst South
+Africans as
+illustrated in the
+YouTube video by
+Korie (2019).
+Films
+Producer
+Title of film. Year
+released.
+[Format]
+Location:
+Publishing/
+production house.
+Coogler, R. 2018. Black
+Panther. [Motion picture]
+Location not known:
+Marvel Studios.
+In the movie Black
+Panther, Coogler
+(2018) introduces
+the audience to an
+alternate world
+which reimagines an
+African empire in
+which European
+colonisation did not
+take place.
+Content
+from apps
+Title of
+application/game/
+software. Year
+Description of
+content. Platform:
+Publishing house.
+Canva. 2019a. Glacial
+indifference. Mobile app:
+Canva.
+Canva. 2019b. Eufloria.
+Mobile app: Canva.
+Caption example:
+Figure 2 Canva
+(2019a). Example of
+a birthday card. [s.l].
+Figure 3 Canva
+(2019b). Lake
+landscape of location
+unknown.
+51
+citation
+Original
+Artist. Year.
+Title of art
+piece/design.
+Photographer
+, [Format]
+Location of
+source and
+[Accessed
+date]
+Duncanson, M.  2012. Abstract art
+landscape seascape bold colorful
+artwork serenity by Madart.
+FineArtAmerica [Online image]
+https://fineartamerica.com/
+featured/abstract-art-landscape-
+seascape-bold-colorful-artwork-
+serenity-by-madart-megan-
+duncanson.html [Accessed:
+01.12.2019]
+citation:
+Duncanson’s
+(2012)
+artwork
+shows intense
+abstract use
+of colour
+similar to
+those of
+aurora lights.
+caption:
+Figure #
+Duncanson
+(2012).
+Abstract art
+landscape
+seascape bold
+colorful
+serenity by
+Madart.
+Location not
+known.
+Images
+from other
+sources
+*Stock
+images
+fall under
+this
+category
+as well.
+Dependent
+on the type
+of source
+If the image is from an online web page, cite as per
+online source (generic). The only difference here is
+that you will indicate [Online image] instead of
+[Online].
+If you are using an image from a designer’s
+collection, cite accordingly.
+52
+Artwork
+exhibited
+at a
+museum
+Composition.
+Size.
+Museum.
+Madrazo y Kuntz, F. 1853. Amalia de
+Llano y Dontres, countess of Vilches.
+Oil on canvas unlined. 126 × 89 cm.
+Museo del Prado. [Online image]
+https://www.museodelprado.es/cole
+ccion/obra-de-arte/amalia-de-llano-
+y-dotres-condesa-de-
+vilches/5aa9dcdd-3e53-40bd-84f4-
+d5afad8cbfdd [Accessed:
+16.01.2021]
+Madrazo y
+Kuntz (1853)
+artwork shows
+intricate
+garment detail
+and textures
+such as light
+blue satin.
+Image caption:
+Kuntz (1853).
+Amalia de
+Llano y
+Dontres,
+countess of
+Vilches. Oil on
+canvas
+unlined. 126 ×
+89 cm. Museo
+del Prado.
+53
+Designer
+collections
+Designer.
+collection
+and season
+abbreviation.
+Viktor & Rolf*. 2019. Spiritual
+glamour A/W 2019. [Collection]
+http://www.viktor-rolf.com/haute-
+couture/
+[Accessed: 01.04.2019]
+*Note that the author is not
+Horsting, V. & Snoeren, R. Rather it
+is Viktor & Rolf as a brand, not two
+individual authors/designers.
+Viktor & Rolf’s
+A/W 2019
+referred to
+glamour in a
+magical sense
+instead of
+sensationalism
+Image caption:
+Figure # Viktor
+& Rolf (2019).
+Spiritual
+glamour A/W
+2019. Location
+not known.
+Source type
+Your own ideas
+and opinions and
+analysis
+Do not reference either in text or in the reference list.
+Make double (triple!) sure that these are your own ideas and
+do not come from another source.
+Original artwork,
+photographs and
+diagrams
+See appropriate section of this guide to learn how to reference
+your own original visuals.
+Student
+photographs of
+others’ artefacts
+(objects,
+products,
+clothing, etc.)
+*Stock images
+fall under this
+category as well.
+Caption:
+Owner (Year
+artefact
+made).
+Description.
+Location.
+Owner. Year
+artefact made.
+Description.
+Both Thumbnail and
+Caption methods in
+separate image
+reference list:
+Truworths.
+2019. Navy
+cocktail dress.
+Photograph
+taken at Sandton City,
+2019.
+Thumbnail
+method:
+No caption required.
+Figure 3 Truworths
+(2019). Navy
+Sandton City,
+Instagram
+posts
+has full
+copyright
+of all
+posts, so
+you will
+find you
+cannot
+copy
+caption:
+Author/
+username
+handle (Day,
+month, year
+posted).
+If using the image, provide entry in
+a separate image reference list with
+thumbnail:
+Christopherfivaz.
+03.12.2019. That show-
+stopping moment of…
+[Instagram] https://www.instagram
+Fivaz
+(03.12.2019,
+) designed a
+golden
+shimmer
+matric dance
+dress for a
+55
+original
+images.
+You are,
+allowed to
+screen
+capture
+the full
+post with
+handle
+and
+logo
+included
+with
+relevant
+entry into
+list.
+Location.
+Surname,
+Initial OR
+handle. Day,
+posted. First
+five words of
+the post
+followed by
+ellipses…
+[Instagram]
+<URL>
+date]
+.com/p/B5j7cL4n-W8/ [Accessed:
+06.12.2019]
+Fivaz, C. 03.12.2019.
+That show-stopping
+moment of… [Instagram]
+https://www.instagram
+personal
+client.
+Figure 4
+(03.12.2019)
+. Matric
+dance dress
+by designer
+Christopher
+Fivaz.
+Johannesbur
+g.
+Twitter
+[Twitter]
+Forbes. 08.12.2019. 9 effortless
+ways to make… [Twitter post]
+https://twitter.com/Forbes
+/status/120389731112815
+0016?ref_src=twsrc%5Egoo
+gle%7Ctwcamp%5Eserp%7Ctwgr%5
+Etweet [Accessed: 09.12. 2019]
+Forbes posts
+frequent
+tweets with
+links with
+regard to
+improving
+office
+relations
+(e.g. Forbes,
+08.12.
+2019).
+56
+type:
+Format:
+Facebook
+– Personal
+handle.
+Day, month,
+year
+five words
+of the post
+[Facebook]
+Magugu, T. 26.11.2019. Tank
+Magazine print interview, featuring…
+https://www.facebook.com/thebemagu
+gu/photos/pcb.1377239049102639/13
+77238932435984/?type=3&theater
+[Accessed: 26.11.2019]
+Thebe
+Magugu
+(26.11.2019)
+was in Paris
+at the end of
+November for
+an interview
+with Tank
+Magazine.
+Note the
+difference
+between
+brands and
+individuals as
+authors. If it
+was Thebe
+Magugu’s
+account, you
+would provide
+his surname
+and initial. If,
+however, you
+are working
+with a brand
+name, you
+provide it in
+full (Thebe
+Magugu is the
+name of the
+designer’s
+brand).
+–
+Business
+Brand. Day,
+[Facebook]
+Thebe Magugu. 26.11.2019. Tank
+Blogs
+Aier, L. 05.12.2019. 10 best luggage
+brands for… [FashionLady]
+https://www.fashionlady.in/best-
+Aier
+(05.12.2019)
+recommends
+Delsey as an
+57
+[Platform]
+luggage-brands-for-trip/149591
+[Accessed: 10.12.2019]
+excellent
+brand of
+luggage for
+travelling in
+style.
+Custome
+r reviews
+handle.  Day,
+posted.
+Reviewed
+brand/product
+, first five
+words of the
+post followed
+by ellipses…
+[Platform]
+Mzikayise G. 05.12.2019.
+Fashioncompany, Online purchase…
+[HelloPeter]
+https://www.hellopeter.com/fashionc
+ompany/reviews/online-purchase-
+59c0b5f3c2567aa4ff103c31084d1c26
+70b9181c-2934666 [Accessed:
+10.12.2019]
+Mzikayise G
+stated that
+the company
+had not
+delivered his
+order even
+though he
+paid for the
+order on the
+27th of
+November
+Acts see South Africa.
+American
+Psychological
+Association.
+2020.
+style
+blog.
+https://apastyle.apa.org/blog [Accessed: 11.08.2020]
+Babbie, E. 2007. The practice of social research, 11th ed. Belmond: Thomson
+Wadsworth.
+Bagwandeen, D. 1994. Teacher education in a changing society. South African Journal
+of Higher Education, 8(2):15–19.
+Barrett, P. 2000. Systems and relationships for construction quality. International
+of
+Quality
+&
+Reliability
+Management.
+17(4):377–392.
+https://doi.org/10.1108/02656710010298409
+Bate, N. 2013. MBA: Think, perform and earn like a top business school graduate. [e-
+book]. Oxford: Infinite Ideas.
+http://www.kalahari.com/digitaldownloads/MBA/80470/43850471.aspx
+12.04.2013]
+Nature.
+2012.
+Forest
+elephant.
+Natural
+World.
+[video].
+http://www.bbc.co.uk/nature/life/African_Forest_Elephant [Accessed: 25.10.2012]
+Bryant, K. & Diga, K. 2013. W/righting research capacity building: a preliminary model
+to inform writing support activities for African researchers. Alternation, 9:46–73.
+Buthelezi, N.P.A. 2008. What in the school context promotes resilience? SANPAD
+Conference on Resilience Outcomes. University of Pretoria. Durban, South Africa.
+Cherry, K. 2013. How to cite an online article with no date. Verywellmind.com.
+http://psychology.about.com/b/2010/11/03/how-to-cite-an-online-article-with-no-
+date.htm [Accessed: 22.04.2013]
+Crossref. 2020. https://www.crossref.org/ [Accessed: 21.07.2020]
+Davidson, L. & Douglas, K. 1998. Digital object identifiers: promise and problems for
+scholarly publishing. Journal of Electronic Publishing: The Socioeconomics Dimensions
+of Electronic Publishing, 4(2).
+59
+https://doi.org/10.3998/3336451.0004.203 [Accessed: 10.07.2017]
+De Montfort University Library Services. 2009. The Harvard system of referencing.
+[pdf].
+http://www.library.dmu.ac.uk/Images/Selfstudy/Harvard.pdf [Accessed:
+06.07.2017]
+Denzin, N.K. & Lincoln, Y.S., (eds). 1994. Handbook of qualitative research. Thousand
+Oaks: Sage.
+Dickson, E. 2020. Lean leadership in a time of crisis. 32nd Annual Shingo Conference,
+12–13 October 2020. [unpublished paper]. Utah State University: Shingo Institute.
+Diga, K. 2012. Facing the African ICTD academic divide. International Association for
+Media and Communication Research (IAMCR 2012), 15–19 July 2012, Durban, South
+Africa.
+Diga, K. 2013. Local economic opportunities and ICTs: how ICTs affect livelihoods
+(Part II). In Emdon, H., Elder, L., Petrazzini, B. & Fuchs, R. (eds). Connecting ICTs to
+development: the IDRC experience. London: Anthem Press.
+EasyBib. 2016. How to cite an ebook in APA. http://www.easybib.com/guides/citation-
+guides/apa-format/e-book/ [Accessed: 23.06.2020]
+Ehlers, M.B. 2000. Residential-based business as an alternative location-decision for
+SMMEs. [DCom thesis]. Pretoria: University of Pretoria.
+Feldman, H. 2017. SA has been re-colonised and we don’t even know it. News24, 10
+July.
+http://www.news24.com/Columnists/HowardFeldman/sa-has-been-re-
+colonised-andwe-dont-even-know-it-20170710 [Accessed: 10.07.2017]
+Heaton, J. & Kruger, H. 2015. South African law, 4th ed. Durban: LexisNexis.
+Herrmann, S.M. 2017. Drought. Encyclopedia.com.
+http://www.encyclopedia.com/earth-and-environment/atmosphere-
+andweather/weather-and-climate-terms-and-concepts/drought [Accessed:
+29.06.2017]
+Howard-Jones, P.A. 2014a. Evolutionary perspectives on mind, brain and education.
+Mind, Brain, and Education. 8(1):21–33, 1 March. Hoboken: Wiley-Blackwell.
+60
+Howard-Jones, P.A. 2014b. Neuroscience and education: myths and messages. [pdf].
+Nature
+Reviews
+Neuroscience.
+15(12):817–824,
+December.
+https://doi.org//10.1038/nrn3817
+Kempen, A. 2017. Access to legal aid is possible for all: stating the case for
+paralegals/community advice officers. Servamus, 110(4):33–37. Pretoria: SARP
+Publishers.
+King Committee on Corporate Governance. 2002. King Report on Corporate
+Governance in South Africa. Johannesburg: Institute of Directors.
+Klein, K.E. 2013. How small businesses use big data. Businessweek, 3 Apr.
+http://www.businessweek.com/articles/2013-04-03/how-small-businesses-use-big-
+data#r=nav-f-story [Accessed: 12.04.2013]
+Lab, S.P. 2016. Crime prevention: approaches, practices, and evaluations, 9th ed. New
+York: Routledge.
+MacDonald, G. 2016a. How to live with dementia as a common experience of ageing.
+SSPS Review, 3:14–32.
+www.sydney.edu.au/arts/about/our-people/academic-staff/gaynor-macdonald.html
+[Accessed: 23.07.2020]
+MacDonald, G. 2016b. Teaching climate change in the Neoliberal University. In
+Siperstein, S., Hall, S. & LeMenager, S., (eds). Teaching Climate Change in the
+Humanities. London: Routledge.
+Marx, J., ed. 2017. Investment management, 5th ed. Pretoria: Van Schaik.
+Mccarthy, T.S., Gumbricht, T., Stewart, R.G., Brandt, D., Hancox, J., McCarthy, J. &
+Duse, A. 2004. Wastewater disposal at safari lodges in the Okavango Delta, Botswana.
+Water SA. 30(1):121–128.
+https://doi.org/10.4314/wsa.v30i1.5035
+McMillan, K. & Weyers, J. 2010. How to write essays & assignments. Edinburgh Gate:
+Pearson.
+Meadows, M. 2011. Indigenous media. In Downing, J.D.H., (ed). Encyclopedia of social
+movement media. pp. 247–250. Los Angeles: Sage.
+61
+Morrison, E.M. 2012. Operations Research. BMN120: Business Management. Pretoria:
+Tshwane University of Technology.
+Ofwona-Adera, E., Waema, T., May, J., Mascarenhas, O. & Diga, K., (eds). 2014. ICT
+Pathways to poverty reduction: empirical evidence from East and Southern Africa.
+Rugby. UK: Practical Action Publishing.
+Power, M., Balderstone, B. & Gyles, S. 2000. Direct marketing. Roseville, NSW:
+McGraw-Hill.
+Punch, M. 1994. Politics and ethics in qualitative research. In Denzin, N.K. & Lincoln,
+Y.S., (eds). Handbook of qualitative research, pp. 60–69. Thousand Oaks: Sage.
+Radijeng, K. 2010. Open access in institutions of higher learning in Botswana. 76th
+IFLA General Conference and Assembly, 10–15 August 2010, Gothenburg, Sweden.
+Retief, E. 2013. Fun activities can improve language learning, academics reveal.
+16 April. LIS Trends. http://listrends.blogspot.com/ [Accessed: 17.04.2013]
+Rodriquez-Garcia, R. & White, E.M. 2005. Self-assessment for results: conducting self-
+assessment for development practitioners. https://doi.org/10.1596/978-0-8213-
+6148-1
+Samson, C. 1970. Problems of information studies in history. In Stone, S., (ed). 1980.
+Humanities Information Research, pp. 44–68. Sheffield: CRUS.
+SAPA. 2013. E-tolls to cost R200 for most motorists. Sowetan LIVE. 6 Apr.
+http://www.sowetanlive.co.za/news/2013/04/12/e-tolls-to-cost-r200-for-most-
+motorists [Accessed: 13.04.2013]
+Sexton, M & Barrett, P. 2005. Performance-based building and innovation: balancing
+client and industry needs. Building Research & Information, 33(2):142–148.
+https://doi.org/10.1080/0961321042000323789
+Silverman, D.F. & Propp, K.K., (eds). 1990. The active interview. Beverly Hills, CA:
+Sage.
+Sithole, B.T. 2013. Governance of schools, Tuesday, 12 February, 11:35. [email to
+the author].
+62
+Slabbert, J.A., Parker, A.J. & Farrell, D.V. 2015. Employment relations management:
+back to basics a South African perspective. Durban: LexisNexis.
+Smit, R. 2013. Reference techniques: Harvard style. Johannesburg: University of
+Johannesburg.
+South Africa. 2004. Publication on explanatory summary: Petroleum Products
+Amendment Bill, 2004, Notices 1624. Government Gazette, 26648:2, 4 August.
+https://static.pmg.org.za/bills/040907b16-04.pdf [Accessed: 02.02.2021]
+South Africa. 2013. Further Education and Training Colleges Amendment Act, 2013
+(Act 1 of 2013). Pretoria: Government Printing Works.
+South Africa. Department of Education. 2003. Draft policy on religion and education.
+Pretoria: Government Printing Works.
+South Africa. Western Cape. 2013. Western Cape Community Safety Act, 2013
+(Act 3 of 2013). Cape Town: Government Printing Works.
+Southern Business School. 2013. Harvard referencing guide. Krugersdorp: Southern
+Business School.
+Swanepoel, A.J. 2010. What 37 000 citations can tell. In Katsirikou, A. & Skiadas,
+C.H., (eds). Qualitative and Quantitative Methods in Libraries – Theory and
+Applications: Proceedings of the International Conference on QQML2009, pp. 414–
+422. New Jersey: World Scientific.
+Terrill, R.J. 2016. World criminal justice systems: a comparative survey, 9th ed. New
+Thakali, Y. 2013. City hands contracts to own employees. Saturday Star, 1, 6 Apr.
+Todaro, M.P. & Smith, S.C. 2015. Economic development, 12th ed. Harlow: Pearson.
+University
+Birmingham.
+n.d.
+Harvard:
+list
+bibliography.
+https://intranet.birmingham.ac.uk/as/libraryservices/library/referencing/icite/refere
+ncing/harvard/referencelist.aspx [Accessed: 26.06.2017]
+Van der Walt, J.L. & Wolhuter, C.C. 2016. First language as medium of instruction in
+higher education: an international perspective. Tydskrif vir Geesteswetenskappe,
+56:4:40–41, December 2016.
+63
+Vance, C. & Hedel, R. 2008. On the link between urban form and automobile use:
+evidence from German survey data. Land Economics, 84:51–65.
+Wilkinson, L.J. 2020. DOI display guidelines: display guidelines for Crossref DOIs –
+effective from March 2017.
+https://www.crossref.org/education/metadata/persistent-identifiers/doi-display-
+guidelines/ [Accessed: 21.07.2020]
+Q.
+How do I cite and reference sources in languages other than English?
+A.
+Use the language of the information source.
+Q.
+Which letters should I capitalise?
+Capitalise:
+the first letter of each author's surname and each initial.
+the first letter of the publication title written in italics.
+all the first letters of the main words in the title of a journal,
+newspaper.
+all the first letters of a place name.
+all the first letters of a publisher.
+What if there is no example in this guide for the source that I am using?
+Begin by applying the guidelines for books and then exchange or add in
+guidelines from other types of information sources in order to build the entry.
+You will also find ample examples on the Internet, but remember to adapt
+them to the style and format used in the guide.
+Where do I find the date of a work?
+Finding a publication date is not always easy. In books, it would be with the
+other publication information on the title page or verso page.
+The publication date of printed journals and newspapers is on the cover or, in
+the case of periodicals, the spine and back page or around the table of
+contents.
+In the case of websites and blog posts, the publication date can be somewhere
+around the title or in the footer of the page.
+What if a book has more than one date?
+Use the latest publication (edition) date for citation purposes. Be sure not to
+take the latest reprint date, which may be more recent. A reprint is not a new
+edition; a reprint simply means that more books of that edition were printed
+at a later date.
+What if the date is in Roman letters?
+Convert the letters to numbers (Arabic numerals), e.g. MCMLXXXV = 1985.
+What if there is no date?
+A.
+Use the abbreviation n.d. (which stands for "no date") in the second position.
+How do I cite two sources written by the same author in the same year?
+Add lower case letters after the date.
+(Molefe, 2001a:23; Molefe, 2001b:104)
+How do I cite a number of different sources to support the same point?
+Cite them in alphabetical order and separate the different citations with a
+semicolon.
+(Epstein et al., 2012:278; Hudson & Nurius, 1994:103; Rosen, 1996:324)
+What if I have more than one work by the same author; how do I list them in
+the reference list?
+List them in the order of the date, starting with the earliest first.
+Molefe, T. 2001a. …
+Molefe, T. 2001b. …
+Molefe, T. 2004. …
+Which place of publication should I include in the reference if a book lists more
+than one place?
+Include only the first place name listed in the book.
+Which publisher should I include in my reference if a book lists multiple
+publishers?
+Include only the first publisher listed.
+Do I have to include the publisher’s name in full?
+Provide the name of the publisher in the shortest possible form that will be
+recognised internationally, e.g. "Sage" and not "Sage Publications", and "Van
+Schaik" and not "JL van Schaik".
+Some Harvard referencing style manuals use the words "Available at" or
+"Available from" before the URL of an electronic publication. What is the
+correct way?
+It used to be the preferred way but lately most style manuals omit those
+words since the URL sufficiently indicates the location of the source. The
+STADIO style does not require this phrase.
+Some online journal articles and webpages have very long URLs.
+Very long URLs may be shortened to the first forward slash /.
+Why do I have to include the date when I access a website?
+67
+Website pages appear and disappear so often that it is vital to indicate that
+the information was accurate at the date given.
+Which do I choose: the website URL or the DOI?
+The DOI (digital object identifier) is a unique identifier that is assigned to
+some website pages. When it is present, use it instead of the website URL and
+date accessed.
+Can I use software to manage the reference list?
+You can make use of reference managers, of which some are freely available
+on the Internet, i.e. Cite This For Me at http://www.citethisforme.com/ or
+Mendeley at https://www.mendeley.com/search/. However, you may find it
+necessary to adapt the references created by a reference manager to the style
+and format of this guide.
+If a source has more than one format, for example a printed and an online
+format, which information do I use in the reference list?
+Only use the information of the format that you have used in your research.
+If you have used a printed format, use that information in the reference list.
+When do I use pp. and when do I only show the page number range?
+When there is information about the series, volume and/or issue number, the
+page or page range numbers follow immediately after a colon (:).
+Vance, C. & Larson, E. 2002. Leadership research in business and health care.
+[abstract]. In Gennaro, S. (ed). Journal of Nursing Scholarship, 34(2):165–
+171. https://doi.org/10.1111/j.1547-5069.2002.00165.x
+When there is no other information following the title, use pp. as the
+abbreviation to introduce the page numbers range.
+Samson, C. 1970. Problems of information studies in history. In Stone, S.
+(ed). 1980. Humanities information research, pp. 44–68. Sheffield: CRUS.
+Cronje, M., Murdoch, N. & Smit, R. (eds). 2003. Reference Techniques: Harvard
+method and APA style. Auckland Park: University of Johannesburg.
+Harris, J. 2000. Understanding the Harvard Referencing method. New York: Caxton.
+Kotze, T. 2009. Referencing in Academic Documents: Official Guidelines of the
+Department of Marketing and Communication Management. 4th ed. Department of
+Marketing and Communication Management. University of Pretoria.
+http://web.up.ac.za/default.asp?ipkCategoryID=2319&sub=1&parentid=753&subid
+=960&ipklookid=3.pdf [Accessed 08.07.2009]
+Van der Walt, E. 2006. Quoting sources. Potchefstroom: North-West University.
+Reference style of the Tydskrif vir Hedendaagse Romeins-Hollandse Reg (THRHR) /
+Journal of Contemporary Roman-Dutch Law
+The THRHR reference style is used for in-text and footnote referencing
+Documents should be typed in double spacing on one side of A4 size paper. This
+applies to summaries, footnotes and quotations.
+Abbreviations are not used in the text; in footnotes (and bracketed references)
+recognised abbreviations are used extensively. Punctuation and spaces are not used
+in abbreviations: eg, cf, USA, THRHR, RSA, BA, LLM, Unisa, SALJ.
+Examples
+s for section (plural ss); ff for and further; para for paragraph (plural paras); 2ed for
+second edition; AJ for Acting Judge; J for Judge; JA for Judge of Appeal; JP for Judge
+President, AJA for Acting Judge of Appeal; CJ for Chief Justice; reg for regulation; ch
+for chapter; and cf for compare.
+Quotations correspond exactly with the original, that is, with italicisation, capital
+letters, full stops, etcetera, unchanged. All changes or insertions in quotations are
+made in square brackets, for example: “[I]n…”.
+Use double quotation marks (with single quotation marks inside a quotation). Where
+a full sentence is quoted, the quotation marks are placed after the full stop. In other
+cases, quotations marks are place before the comma, colon or semi-colon.
+The use of capital letters should be limited as far as possible. All footnotes start with
+a capital letter.
+Consult the examples (provided by lecturers).
+Quotations (also in Latin) are NOT italicised. Words and expressions in a language
+other than that of the document are in italics, for example: dolus, fait accompli,
+Grundnorm.
+Cases
+The names of the parties and the “v” between them are in italics. The words “and
+another”, “and others”, etcetera are omitted. Example: Botha v Botha 1979 3 SA 792
+(T).
+Subsequent reference to the same case: Botha v Botha.
+It is unnecessary to supply the initials of the author (except where the omission may
+cause confusion). Book titles are in italics. Only the first word of the title starts with a
+capital letter, except where proper names appear in the title. The date of publication
+is provided between brackets. Example of a book reference: Sharrock Business
+transactions law 9ed (2016). Subsequent references to the same book: Sharrock 30.
+71
+Articles
+The titles of articles are place in quotation marks. Only the first word of the title starts
+with a capital letter. Names of journals are in italics and not abbreviated (except LJ,
+LR and Univ): Harvard LR, Yale LR, De Rebus, De Jure. But THRHR, SALJ, TSAR, CILSA,
+SASK, SA Merc LJ, LQR, JRS. The volume number is omitted (except where the page
+numbers of a journal are not continuous – such as Codicillus and De Rebus. Example
+of an article reference: Koziol “Incorrect advice to investors and the liability of banks”
+2011 THRHR 1.
+Subsequent reference to the same article: Kozio 2011 THRHR 5.
+Legislation
+The title and number of an Act are not italicised: Bills of Exchange Act 34 of 1964.
+References to legislation in the text may also be informal (as soon as it is clear to the
+reader which Act is referred to): The Act/The 1926 Act.
+Old authorities
+See 1985 THRHR 125.
+Electronic article in newspapers or magazines/electronic sources
+Clark “The doctor of Port St Johns” Dispatch Online (30-03-1998) available at
+http://bit.ly/brfWha (Accessed: 26.08.2005)
+Examples of in-text referencing will be provided directly to students.
